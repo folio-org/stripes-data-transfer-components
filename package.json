@@ -50,5 +50,8 @@
     "react": "*",
     "react-router": "*",
     "react-router-dom": "*"
+  },
+  "stripes": {
+    "type": ""
   }
 }
