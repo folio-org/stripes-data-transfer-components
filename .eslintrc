@@ -11,6 +11,17 @@
   },
   "plugins": ["babel"],
   "root": true,
+  "overrides": [
+    {
+      "files": ["lib/**/tests/*", "util/tests/*"],
+      "rules": {
+        "func-names": "off",
+        "max-len": "off",
+        "no-unused-expressions": "off",
+        "react/prop-types": "off"
+      }
+    }
+  ],
   "rules": {
     "key-spacing": [
       "error",
@@ -92,7 +103,13 @@
     "no-void": "off",
     "comma-dangle": [
       "error",
-      "always-multiline"
+      {
+        "arrays": "always-multiline",
+        "objects": "always-multiline",
+        "imports": "always-multiline",
+        "exports": "always-multiline",
+        "functions": "never"
+      }
     ],
     "arrow-parens": [
       "error",
