@@ -8,3 +8,4 @@ export {
 export { Progress } from './lib/Progress';
 export { default as Preloader } from './lib/Preloader';
 export { sortCollection } from './lib/utils';
+export * from './lib/FileUploader';
