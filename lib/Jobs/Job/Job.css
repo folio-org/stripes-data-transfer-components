@@ -19,3 +19,8 @@
     margin-top: 10px;
   }
 }
+
+.jobHeader {
+  font-size: var(--font-size-medium);
+  font-weight: 600;
+}

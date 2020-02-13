@@ -4,6 +4,7 @@ export {
   Job,
   jobExecutionPropTypes,
   sortRunningJobs,
+  JobsListAccordion,
 } from './lib/Jobs';
 export { Progress } from './lib/Progress';
 export { default as Preloader } from './lib/Preloader';
