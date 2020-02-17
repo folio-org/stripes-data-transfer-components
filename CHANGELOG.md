@@ -4,3 +4,4 @@
 * Module is created. Add FileUploader component. Refs UIDEXP-11.
 * Move components from ui-data-import to display jobs and jobs lists. UIDEXP-14.
 * Move accordion with jobs list to separated component. UIDEXP-6.
+* Add shared utils for initiating data export process. UIDEXP-20.
