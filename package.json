@@ -50,6 +50,7 @@
   },
   "peerDependencies": {
     "@folio/stripes": "^2.12.0",
+    "pretender": "*",
     "react": "*",
     "react-router": "*",
     "react-router-dom": "*"

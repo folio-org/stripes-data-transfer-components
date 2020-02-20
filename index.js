@@ -8,5 +8,11 @@ export {
 } from './lib/Jobs';
 export { Progress } from './lib/Progress';
 export { default as Preloader } from './lib/Preloader';
-export { sortCollection } from './lib/utils';
+export {
+  sortCollection,
+  createUrl,
+  createOkapiHeaders,
+  convertBytesToKilobytes,
+} from './lib/utils';
 export * from './lib/FileUploader';
+export { uploadFile } from './lib/FileUploader/utils';

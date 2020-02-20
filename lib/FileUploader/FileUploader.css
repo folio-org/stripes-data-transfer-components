@@ -25,7 +25,7 @@
 }
 
 .activeUploadTitle {
-  font-size: var(--font-size-xx-large);
+  font-size: var(--font-size-large);
 }
 
 /* Polyfill for proper work of `hidden` attribute */
