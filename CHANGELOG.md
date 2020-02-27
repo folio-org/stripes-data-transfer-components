@@ -6,3 +6,4 @@
 * Move accordion with jobs list to separated component. UIDEXP-6.
 * Add shared utils for initiating data export process. UIDEXP-20.
 * Move job logs component from ui-data-import. UIDEXP-16.
+* Move getFileExtension from ui-data-import. UIDEXP-21.
