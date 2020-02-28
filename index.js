@@ -18,3 +18,4 @@ export {
 export * from './lib/FileUploader';
 export { uploadFile } from './lib/FileUploader/utils';
 export * from './lib/JobLogs';
+export * from './lib/DataFetcher';
