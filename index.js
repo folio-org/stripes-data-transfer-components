@@ -13,6 +13,7 @@ export {
   createUrl,
   createOkapiHeaders,
   convertBytesToKilobytes,
+  getFileExtension,
 } from './lib/utils';
 export * from './lib/FileUploader';
 export { uploadFile } from './lib/FileUploader/utils';
