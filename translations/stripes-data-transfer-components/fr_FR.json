@@ -1,3 +1,9 @@
 {
-    "loading": "Chargement"
+    "loading": "Chargement",
+    "fileName": "Nom de fichier",
+    "jobExecutionHrId": "ID",
+    "jobProfileName": "Profil de tâche",
+    "records": "Enregistrements",
+    "jobCompletedDate": "Fin de l'opération",
+    "runBy": "Exécuté par"
 }

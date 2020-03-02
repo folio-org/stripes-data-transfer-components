@@ -1,3 +1,9 @@
 {
-    "loading": "جاري التحميل"
+    "loading": "جاري التحميل",
+    "fileName": "اسم الملف",
+    "jobExecutionHrId": "المعرّف",
+    "jobProfileName": "وضع الوظيفة",
+    "records": "تسجيلات",
+    "jobCompletedDate": "انتهى التشغيل",
+    "runBy": "تشغيل بواسطة"
 }

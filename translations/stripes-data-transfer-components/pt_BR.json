@@ -1,3 +1,9 @@
 {
-    "loading": "Carregando"
+    "loading": "Carregando",
+    "fileName": "Nome do arquivo",
+    "jobExecutionHrId": "ID",
+    "jobProfileName": "Perfil do job",
+    "records": "Registros",
+    "jobCompletedDate": "Terminou a execução",
+    "runBy": "Executado por"
 }
