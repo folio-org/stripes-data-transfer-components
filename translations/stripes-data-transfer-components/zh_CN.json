@@ -1,3 +1,9 @@
 {
-    "loading": "Loading"
+    "loading": "加载中...",
+    "fileName": "File name",
+    "jobExecutionHrId": "ID",
+    "jobProfileName": "Job profile",
+    "records": "Records",
+    "jobCompletedDate": "Ended running",
+    "runBy": "Run by"
 }
