@@ -126,6 +126,7 @@
       "error",
       "unix"
     ],
-    "react/jsx-no-useless-fragment": "error"
+    "react/jsx-no-useless-fragment": "error",
+    "no-use-before-define": "off"
   }
 }
