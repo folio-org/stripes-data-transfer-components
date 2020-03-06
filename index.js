@@ -14,6 +14,9 @@ export {
   createOkapiHeaders,
   convertBytesToKilobytes,
   getFileExtension,
+  sortDates,
+  sortStrings,
+  sortNumbers,
 } from './lib/utils';
 export * from './lib/FileUploader';
 export { uploadFile } from './lib/FileUploader/utils';
