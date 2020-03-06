@@ -9,3 +9,4 @@
 * Move getFileExtension from ui-data-import. UIDEXP-21.
 * Update `stripes` to `v3.0.0`, `stripes-core` to `4.0.0` and `react-intl` to `2.9.0`. UIDEXP-31.
 * Implement DataFetcher component for making API requests upon interval. Refs UIDEXP-22.
+* Update JobLogs and related components according to changes in requirements . UIDEXP-7.
