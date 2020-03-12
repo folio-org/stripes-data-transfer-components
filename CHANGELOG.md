@@ -10,3 +10,4 @@
 * Update `stripes` to `v3.0.0`, `stripes-core` to `4.0.0` and `react-intl` to `2.9.0`. UIDEXP-31.
 * Implement DataFetcher component for making API requests upon interval. Refs UIDEXP-22.
 * Update JobLogs and related components according to changes in requirements . UIDEXP-7.
+* Rewrite DataFetcher with the class based approach instead of hooks as it was not consistent with the behavior in data-import. UIDEXP-23.
