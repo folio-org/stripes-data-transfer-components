@@ -1,8 +1,9 @@
 # Change history for stripes-data-transfer-components
 
 ## 1.1.0 (IN PROGRESS)
+* Update `stripes-smart-components` to `v3.0.0` to avoid errors. UIDEXP-37.
 
-## [1.0.0](https://github.com/folio-org/ui-data-import/tree/v1.0.0) (2020-03-13)
+## [1.0.0](https://github.com/folio-org/stripes-data-transfer-components/tree/v1.0.0) (2020-03-13)
 * Module is created. Add FileUploader component. Refs UIDEXP-11.
 * Move components from ui-data-import to display jobs and jobs lists. UIDEXP-14.
 * Move accordion with jobs list to separated component. UIDEXP-6.
