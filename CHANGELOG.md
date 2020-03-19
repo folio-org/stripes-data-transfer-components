@@ -13,3 +13,4 @@
 * Implement DataFetcher component for making API requests upon interval. Refs UIDEXP-22.
 * Update JobLogs and related components according to changes in requirements . UIDEXP-7.
 * Rewrite DataFetcher with the class based approach instead of hooks as it was not consistent with the behavior in data-import. UIDEXP-23.
+* Updating `stripes-smart-components` to `v3.0.0` to avoid errors. UIDEXP-37.
