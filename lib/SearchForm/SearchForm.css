@@ -1,0 +1,20 @@
+@import '@folio/stripes-components/lib/variables';
+
+.searchWrap {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.searchFieldWrap,
+.searchButtonWrap {
+  margin: 0.5rem 0.5rem calc(var(--control-margin-bottom) / 2);
+}
+
+.searchFieldWrap {
+  flex-grow: 1;
+}
+
+.searchButtonWrap {
+  flex-shrink: 0;
+}
