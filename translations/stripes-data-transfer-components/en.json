@@ -1,5 +1,7 @@
 {
   "loading": "Loading",
+  "profiles": "Profiles",
+  "learnMore": "Learn more",
   "fileName": "File name",
   "jobExecutionHrId": "ID",
   "jobProfileName": "Job profile",
