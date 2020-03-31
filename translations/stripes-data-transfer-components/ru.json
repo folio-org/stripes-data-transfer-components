@@ -5,5 +5,7 @@
     "jobProfileName": "Job profile",
     "records": "Records",
     "jobCompletedDate": "Ended running",
-    "runBy": "Run by"
+    "runBy": "Run by",
+    "profiles": "Профили",
+    "learnMore": "Подробнее"
 }
