@@ -2,7 +2,7 @@
 
 ## 1.0.1 (IN PROGRESS)
 * Update `stripes-smart-components` to `v3.0.0` to avoid errors. UIDEXP-37.
-* Remove totalRecords value from defaultJobLogsColumnWidths settings for the jobs logs list. Refs UIDEXP-58.
+* Remove totalRecords value from defaultJobLogsColumnWidths settings for the jobs logs list. Adjust `sortNumbers` function to work correctly with empty values. Refs UIDEXP-58.
 
 ## [1.0.0](https://github.com/folio-org/stripes-data-transfer-components/tree/v1.0.0) (2020-03-13)
 * Module is created. Add FileUploader component. Refs UIDEXP-11.
