@@ -1,6 +1,9 @@
 # Change history for stripes-data-transfer-components
 
-## 1.0.1 (IN PROGRESS)
+## 1.1.0 (IN PROGRESS)
+
+## [1.0.1](https://github.com/folio-org/stripes-data-transfer-components/tree/v1.0.0) (2020-04-02)
+[Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/tree/v1.0.0...v1.0.1)
 * Update `stripes-smart-components` to `v3.0.0` to avoid errors. UIDEXP-37.
 * Remove totalRecords value from defaultJobLogsColumnWidths settings for the jobs logs list. Adjust `sortNumbers` function to work correctly with empty values. Refs UIDEXP-58.
 
