@@ -57,6 +57,13 @@
     "react-router-dom": "*"
   },
   "stripes": {
-    "type": ""
+    "type": "",
+    "icons": [
+      {
+        "name": "mappingProfiles",
+        "alt": "Field Mapping Profiles",
+        "title": "Field Mapping Profiles"
+      }
+    ]
   }
 }

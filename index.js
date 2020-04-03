@@ -23,7 +23,4 @@ export { uploadFile } from './lib/FileUploader/utils';
 export * from './lib/JobLogs';
 export * from './lib/DataFetcher';
 export * from './lib/SearchForm';
-export {
-  ProfilesLabel,
-  SettingsLabel,
-} from './lib/Settings';
+export * from './lib/Settings';
