@@ -7,5 +7,20 @@
     "jobCompletedDate": "Ended running",
     "runBy": "Run by",
     "profiles": "Profiles",
-    "learnMore": "Learn more"
+    "learnMore": "Learn more",
+    "name": "Name",
+    "folioRecordType": "FOLIO record type",
+    "updated": "Updated",
+    "updatedBy": "Updated by",
+    "mappingProfilesTitle": "Field mapping profiles",
+    "recordTypes.order": "Order",
+    "recordTypes.orderLine": "Order & order line",
+    "recordTypes.invoice": "بل",
+    "recordTypes.item": "شے",
+    "recordTypes.instance": "مثال",
+    "recordTypes.holdings": "ہولڈنگز",
+    "recordTypes.marc-bib": "مارک کتابیات",
+    "recordTypes.marc-auth": "مارک اتھارٹی",
+    "recordTypes.marc-hold": "مارک ہولڈنگز",
+    "search": "تلاش"
 }

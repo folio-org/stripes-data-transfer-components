@@ -7,5 +7,20 @@
     "jobCompletedDate": "Ended running",
     "runBy": "Run by",
     "profiles": "Профили",
-    "learnMore": "Подробнее"
+    "learnMore": "Подробнее",
+    "name": "Название",
+    "folioRecordType": "Тип записи в FOLIO",
+    "updated": "Обновлён",
+    "updatedBy": "Обновлён к",
+    "mappingProfilesTitle": "Field mapping profiles",
+    "recordTypes.order": "Заказ",
+    "recordTypes.orderLine": "Заказ и строка заказа",
+    "recordTypes.invoice": "Счет",
+    "recordTypes.item": "Издание",
+    "recordTypes.instance": "Экземпляр",
+    "recordTypes.holdings": "Фонды",
+    "recordTypes.marc-bib": "MARC Bibliographic",
+    "recordTypes.marc-auth": "MARC Authority",
+    "recordTypes.marc-hold": "MARC Holdings",
+    "search": "Поиск"
 }
