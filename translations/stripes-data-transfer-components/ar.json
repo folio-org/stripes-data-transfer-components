@@ -7,5 +7,20 @@
     "jobCompletedDate": "انتهى التشغيل",
     "runBy": "تشغيل بواسطة",
     "profiles": "أوضاع",
-    "learnMore": "تعرف على المزيد"
+    "learnMore": "تعرف على المزيد",
+    "name": "الاسم",
+    "folioRecordType": "نوع تسجيلة فوليو",
+    "updated": "محدّث",
+    "updatedBy": "تم تحديثه بواسطة",
+    "mappingProfilesTitle": "أوضاع تخطيط الحقل",
+    "recordTypes.order": "طلبية",
+    "recordTypes.orderLine": "الطلبية وسطر الطلبية",
+    "recordTypes.invoice": "الفاتورة",
+    "recordTypes.item": "المادة",
+    "recordTypes.instance": "وعاء",
+    "recordTypes.holdings": "المقتنيات",
+    "recordTypes.marc-bib": "تسجيلة مارك البيبلوغرافية",
+    "recordTypes.marc-auth": "استناد مارك",
+    "recordTypes.marc-hold": "مقتنيات مارك",
+    "search": "بحث"
 }
