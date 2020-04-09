@@ -1,9 +1,10 @@
 # Change history for stripes-data-transfer-components
 
 ## 1.1.0 (IN PROGRESS)
-* Implement `SearchForm` component. Refs UIDEXP-51.
-* Add ProfilesLabel and SettingsLabel components for second settings pane. UIDEXP-39.
-* Add mapping profiles pane component to display static data. Refs UIDEXP-41.
+* Implement `SearchForm` component. UIDEXP-51.
+* Add `ProfilesLabel` and `SettingsLabel` components for second settings pane. UIDEXP-39.
+* Add mapping profiles pane component to display static data. UIDEXP-41.
+* Handle "form elements must have labels" accessibility problem for the file uploader form. STDTC-7.
 
 ## [1.0.1](https://github.com/folio-org/stripes-data-transfer-components/tree/v1.0.0) (2020-04-02)
 [Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/tree/v1.0.0...v1.0.1)
