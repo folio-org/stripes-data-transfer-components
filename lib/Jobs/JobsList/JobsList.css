@@ -1,13 +1,14 @@
+@import "@folio/stripes-components/lib/variables.css";
+
 .list {
-  background-color: transparent!important;
+  background-color: transparent !important;
+
+  & li {
+    display: block;
+    padding: var(--gutter-static-one-third);
+  }
 }
 
 .listContainer {
-  margin-bottom: 5px;
-}
-
-.emptyMessage {
-  display: block;
-  width: 100%;
-  text-align: center;
+  margin-bottom: var(--gutter-static-one-third);
 }
