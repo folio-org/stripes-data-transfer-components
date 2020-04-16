@@ -1,5 +1,5 @@
 {
-    "loading": "Loading",
+    "loading": "Cargando...",
     "fileName": "File name",
     "jobExecutionHrId": "ID",
     "jobProfileName": "Job profile",
@@ -22,5 +22,5 @@
     "recordTypes.marc-bib": "MARC Bibliographic",
     "recordTypes.marc-auth": "MARC Authority",
     "recordTypes.marc-hold": "MARC Holdings",
-    "search": "Search"
+    "search": "Buscar"
 }
