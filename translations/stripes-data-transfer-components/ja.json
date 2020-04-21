@@ -8,7 +8,7 @@
     "runBy": "Run by",
     "profiles": "Profiles",
     "learnMore": "Learn more",
-    "name": "Name",
+    "name": "名称",
     "folioRecordType": "FOLIOレコードタイプ",
     "updated": "Updated",
     "updatedBy": "Updated by",
@@ -22,5 +22,5 @@
     "recordTypes.marc-bib": "MARC Bibliographic",
     "recordTypes.marc-auth": "MARC Authority",
     "recordTypes.marc-hold": "MARC Holdings",
-    "search": "Search"
+    "search": "検索"
 }
