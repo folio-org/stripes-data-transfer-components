@@ -2,9 +2,9 @@
     "loading": "Loading",
     "fileName": "File name",
     "jobExecutionHrId": "ID",
-    "jobProfileName": "Job profile",
+    "jobProfileName": "任務概要",
     "records": "Records",
-    "jobCompletedDate": "Ended running",
+    "jobCompletedDate": "處理完成",
     "runBy": "Run by",
     "profiles": "Profiles",
     "learnMore": "Learn more",
@@ -22,5 +22,5 @@
     "recordTypes.marc-bib": "MARC 書目",
     "recordTypes.marc-auth": "MARC 權威",
     "recordTypes.marc-hold": "MARC 館藏",
-    "search": "Search"
+    "search": "查詢"
 }
