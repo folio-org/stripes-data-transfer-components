@@ -7,6 +7,7 @@
 * Handle "form elements must have labels" accessibility problem for the file uploader form. STDTC-7.
 * Update jobs list structure according to the accessibility requirements. UIDEXP-49.
 * Create reusable `SearchResults` view component. STDTC-8.
+* Create reusable `SearchAndSortPane` component. STDTC-9.
 
 ## [1.0.1](https://github.com/folio-org/stripes-data-transfer-components/tree/v1.0.0) (2020-04-02)
 [Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/tree/v1.0.0...v1.0.1)

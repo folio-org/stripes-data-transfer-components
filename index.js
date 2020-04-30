@@ -24,3 +24,4 @@ export * from './lib/JobLogs';
 export * from './lib/DataFetcher';
 export * from './lib/SearchForm';
 export * from './lib/Settings';
+export * from './lib/SearchAndSortPane';

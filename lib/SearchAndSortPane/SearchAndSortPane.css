@@ -1,0 +1,11 @@
+@import '@folio/stripes-components/lib/variables';
+
+.paneBody {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.searchResults {
+  flex-grow: 1;
+}
