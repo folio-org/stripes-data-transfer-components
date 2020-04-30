@@ -36,7 +36,8 @@
     "react-dom": "^16.5.0",
     "regenerator-runtime": "^0.13.3",
     "core-js": "^3.6.1",
-    "sinon": "^7.1.1"
+    "sinon": "^7.1.1",
+    "query-string": "^5.0.0"
   },
   "dependencies": {
     "classnames": "^2.2.5",
