@@ -57,6 +57,9 @@
     "react-router": "*",
     "react-router-dom": "*"
   },
+  "resolutions": {
+    "moment": "2.24.0"
+  },
   "stripes": {
     "type": "",
     "icons": [
