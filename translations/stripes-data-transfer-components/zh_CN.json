@@ -22,5 +22,7 @@
     "recordTypes.marc-bib": "MARC书目",
     "recordTypes.marc-auth": "MARC规范",
     "recordTypes.marc-hold": "MARC馆藏",
-    "search": "搜索"
+    "search": "搜索",
+    "mappingProfilesCount": "{count, number} field mapping {count, plural, one {profile} other {profiles}}",
+    "new": "New"
 }

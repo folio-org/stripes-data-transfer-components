@@ -22,5 +22,7 @@
     "recordTypes.marc-bib": "مارک کتابیات",
     "recordTypes.marc-auth": "مارک اتھارٹی",
     "recordTypes.marc-hold": "مارک ہولڈنگز",
-    "search": "تلاش"
+    "search": "تلاش",
+    "mappingProfilesCount": "{count, number} field mapping {count, plural, one {profile} other {profiles}}",
+    "new": "New"
 }
