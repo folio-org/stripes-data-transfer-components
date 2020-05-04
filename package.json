@@ -67,6 +67,11 @@
         "name": "mappingProfiles",
         "alt": "Field Mapping Profiles",
         "title": "Field Mapping Profiles"
+      },
+      {
+        "name": "jobProfiles",
+        "alt": "Job Profiles",
+        "title": "Job Profiles"
       }
     ]
   }
