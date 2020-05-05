@@ -6,7 +6,7 @@
     "records": "Enregistrements",
     "jobCompletedDate": "Fin de l'opération",
     "runBy": "Exécuté par",
-    "profiles": "Profiles",
+    "profiles": "Profils",
     "learnMore": "Learn more",
     "name": "Nom",
     "folioRecordType": "Type d'enregistrement FOLIO",
@@ -22,5 +22,7 @@
     "recordTypes.marc-bib": "MARC Bibliographic",
     "recordTypes.marc-auth": "MARC Authority",
     "recordTypes.marc-hold": "MARC Holdings",
-    "search": "Rechercher"
+    "search": "Rechercher",
+    "mappingProfilesCount": "{count, number} field mapping {count, plural, one {profile} other {profiles}}",
+    "new": "Nouveau"
 }

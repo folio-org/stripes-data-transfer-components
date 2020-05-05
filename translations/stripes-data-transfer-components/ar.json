@@ -22,5 +22,7 @@
     "recordTypes.marc-bib": "تسجيلة مارك البيبلوغرافية",
     "recordTypes.marc-auth": "استناد مارك",
     "recordTypes.marc-hold": "مقتنيات مارك",
-    "search": "بحث"
+    "search": "بحث",
+    "mappingProfilesCount": "{count, number} تخطيط حقل {count, plural, one {وضعًا} other {وضعًا}}",
+    "new": "جديد"
 }
