@@ -16,7 +16,7 @@
     "recordTypes.order": "訂單",
     "recordTypes.orderLine": "Order & order line",
     "recordTypes.invoice": "發票",
-    "recordTypes.item": "館藏",
+    "recordTypes.item": "單件",
     "recordTypes.instance": "Instance",
     "recordTypes.holdings": "Holdings",
     "recordTypes.marc-bib": "MARC 書目",
