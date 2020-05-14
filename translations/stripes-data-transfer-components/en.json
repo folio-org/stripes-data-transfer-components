@@ -14,6 +14,8 @@
   "updatedBy": "Updated by",
   "mappingProfilesTitle": "Field mapping profiles",
   "mappingProfilesCount": "{count, number} field mapping {count, plural, one {profile} other {profiles}}",
+  "jobProfilesTitle": "Job profiles",
+  "jobProfilesCount": "{count, number} job {count, plural, one {profile} other {profiles}}",
   "recordTypes.order": "Order",
   "recordTypes.orderLine": "Order & order line",
   "recordTypes.invoice": "Invoice",
