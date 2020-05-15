@@ -38,17 +38,16 @@
     "react-intl": "^4.5.1",
     "regenerator-runtime": "^0.13.3",
     "core-js": "^3.6.1",
-    "sinon": "^7.1.1",
-    "query-string": "^5.0.0"
+    "sinon": "^7.1.1"
   },
   "dependencies": {
     "classnames": "^2.2.5",
     "lodash": "^4.16.4",
     "prop-types": "^15.6.0",
-    "redux-form": "^7.0.3",
     "react-router-prop-types": "^1.0.4",
     "react-dropzone": "^7.0.1",
-    "compose-function": "^3.0.3"
+    "compose-function": "^3.0.3",
+    "query-string": "^5.0.0"
   },
   "peerDependencies": {
     "@folio/stripes": "^4.0.0",

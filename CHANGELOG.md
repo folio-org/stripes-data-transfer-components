@@ -12,6 +12,7 @@
 * Add icon for job profiles. UIDEXP-79.
 * Update to Stripes v4. STDTC-10.
 * Export test utils and extend FOLIO record types list. UIDEXP-46.
+* Implement `JobProfiles` list component. UIDEXP-80.
 
 ## [1.0.1](https://github.com/folio-org/stripes-data-transfer-components/tree/v1.0.0) (2020-04-02)
 [Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/tree/v1.0.0...v1.0.1)
