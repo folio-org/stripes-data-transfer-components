@@ -24,5 +24,9 @@
     "recordTypes.marc-hold": "مقتنيات مارك",
     "search": "بحث",
     "mappingProfilesCount": "{count, number} تخطيط حقل {count, plural, one {وضعًا} other {وضعًا}}",
-    "new": "جديد"
+    "new": "جديد",
+    "recordTypes.items": "مواد",
+    "validation.enterValue": "يرجى إدخال قيمة",
+    "jobProfilesTitle": "أوضاع الوظائف",
+    "jobProfilesCount": "{count, number} وظيفة {count, plural, one {وضع} other {أوضاع}}"
 }

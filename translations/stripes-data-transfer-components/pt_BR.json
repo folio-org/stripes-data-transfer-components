@@ -24,5 +24,9 @@
     "recordTypes.marc-hold": "MARC Holdings",
     "search": "Pesquisa",
     "mappingProfilesCount": "{count, number} {count, plural, one {perfil} other {perfis}} de mapeamento de campos",
-    "new": "Novo"
+    "new": "Novo",
+    "recordTypes.items": "Itens",
+    "validation.enterValue": "Por favor insira um valor",
+    "jobProfilesTitle": "Perfis de job",
+    "jobProfilesCount": "{count, number} job {count, plural, one {perfil} other {perfis}}"
 }
