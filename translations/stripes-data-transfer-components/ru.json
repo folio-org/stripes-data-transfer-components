@@ -24,5 +24,9 @@
     "recordTypes.marc-hold": "MARC Holdings",
     "search": "Поиск",
     "mappingProfilesCount": "{count, number} field mapping {count, plural, one {profile} other {profiles}}",
-    "new": "New"
+    "new": "New",
+    "recordTypes.items": "Издания",
+    "validation.enterValue": "Пожалуйста, введите значение",
+    "jobProfilesTitle": "Профили работы",
+    "jobProfilesCount": "{count, number} job {count, plural, one {profile} other {profiles}}"
 }

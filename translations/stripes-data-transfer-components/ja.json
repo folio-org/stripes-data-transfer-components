@@ -24,5 +24,9 @@
     "recordTypes.marc-hold": "MARC Holdings",
     "search": "検索",
     "mappingProfilesCount": "{count, number} field mapping {count, plural, one {profile} other {profiles}}",
-    "new": "New"
+    "new": "New",
+    "recordTypes.items": "Items",
+    "validation.enterValue": "Please enter a value",
+    "jobProfilesTitle": "Job profiles",
+    "jobProfilesCount": "{count, number} job {count, plural, one {profile} other {profiles}}"
 }
