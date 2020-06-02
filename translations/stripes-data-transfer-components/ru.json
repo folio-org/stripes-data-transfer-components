@@ -20,7 +20,7 @@
     "recordTypes.instance": "Экземпляр",
     "recordTypes.holdings": "Фонды",
     "recordTypes.marc-bib": "MARC Bibliographic",
-    "recordTypes.marc-auth": "MARC Authority",
+    "recordTypes.marc-auth": "Авторитетная MARC-запись",
     "recordTypes.marc-hold": "MARC Holdings",
     "search": "Поиск",
     "mappingProfilesCount": "{count, number} field mapping {count, plural, one {profile} other {profiles}}",
