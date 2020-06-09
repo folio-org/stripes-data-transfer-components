@@ -16,6 +16,7 @@
 * Update formatter for `MappingProfiles` list items. UIDEXP-57.
 * Export PreloaderInteractor. UIDEXP-82.
 * Update record column in jobs logs list for failed status. UIDEXP-97
+* Export ProgressInteractor and update job execution prop types. UIDEXP-38
 
 ## [1.0.1](https://github.com/folio-org/stripes-data-transfer-components/tree/v1.0.0) (2020-04-02)
 [Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/tree/v1.0.0...v1.0.1)
