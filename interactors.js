@@ -9,3 +9,4 @@ export {
   mountWithContext,
   wait,
 } from './test/bigtest/helpers';
+export * from './test/bigtest/helpers/stripesResourcesMocks';
