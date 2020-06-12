@@ -1,6 +1,9 @@
 # Change history for stripes-data-transfer-components
 
-## 1.1.0 (IN PROGRESS)
+## 2.1.0 (IN PROGRESS)
+
+## [2.0.0](https://github.com/folio-org/stripes-data-transfer-components/tree/v2.0.0) (2020-06-12)
+[Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/tree/v1.0.1...v2.0.0)
 * Implement `SearchForm` component. UIDEXP-51.
 * Add `ProfilesLabel` and `SettingsLabel` components for second settings pane. UIDEXP-39.
 * Add mapping profiles pane component to display static data. UIDEXP-41.
@@ -19,6 +22,7 @@
 * Export ProgressInteractor and update job execution prop types. UIDEXP-38.
 * Extend `SearchAndSortPane` and `JobProfiles` with new props in order to adjust it for choose job profile page. Extend and export test utils for building resources and mutator. UIDEXP-87.
 * Add `FullScreenView` component. Change `SearchAndSortPane` rowProp `href` with `to`. UIDEXP-50.
+* Update translations
 
 ## [1.0.1](https://github.com/folio-org/stripes-data-transfer-components/tree/v1.0.0) (2020-04-02)
 [Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/tree/v1.0.0...v1.0.1)
