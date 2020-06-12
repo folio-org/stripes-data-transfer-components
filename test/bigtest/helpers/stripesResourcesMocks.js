@@ -1,10 +1,11 @@
-export const buildParentResources = ({
+export const buildResources = ({
   resourceName,
   records = [],
   hasLoaded = true,
   isPending = false,
+  otherResources = {},
 }) => {
-  const parentResources = {
+  const resources = {
     query: {},
     [resourceName]: {
       records,
@@ -12,15 +13,17 @@ export const buildParentResources = ({
       isPending,
       other: { totalRecords: records.length },
     },
+    ...otherResources,
   };
 
-  Object.defineProperty(parentResources.query, 'sort', { get: () => new URLSearchParams(window.location.search).get('sort') || '' });
-  Object.defineProperty(parentResources.query, 'query', { get: () => new URLSearchParams(window.location.search).get('query') || '' });
+  Object.defineProperty(resources.query, 'sort', { get: () => new URLSearchParams(window.location.search).get('sort') || '' });
+  Object.defineProperty(resources.query, 'query', { get: () => new URLSearchParams(window.location.search).get('query') || '' });
 
-  return parentResources;
+  return resources;
 };
 
-export const parentMutator = {
-  resultCount: { replace: () => { } },
-  resultOffset: { replace: () => { } },
-};
+export const buildMutator = (otherMutators = {}) => ({
+  resultCount: { replace: () => {} },
+  resultOffset: { replace: () => {} },
+  ...otherMutators,
+});
