@@ -18,6 +18,7 @@
 * Update record column in jobs logs list for failed status. UIDEXP-97.
 * Export ProgressInteractor and update job execution prop types. UIDEXP-38.
 * Extend `SearchAndSortPane` and `JobProfiles` with new props in order to adjust it for choose job profile page. Extend and export test utils for building resources and mutator. UIDEXP-87.
+* Add `FullScreenView` component. UIDEXP-50.
 
 ## [1.0.1](https://github.com/folio-org/stripes-data-transfer-components/tree/v1.0.0) (2020-04-02)
 [Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/tree/v1.0.0...v1.0.1)

@@ -27,3 +27,4 @@ export * from './lib/SearchForm';
 export * from './lib/Settings';
 export * from './lib/SearchAndSortPane';
 export * from './lib/FullScreenForm';
+export * from './lib/FullScreenView';
