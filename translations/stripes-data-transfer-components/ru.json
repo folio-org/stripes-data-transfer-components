@@ -16,7 +16,7 @@
     "recordTypes.order": "Заказ",
     "recordTypes.orderLine": "Заказ и строка заказа",
     "recordTypes.invoice": "Счет",
-    "recordTypes.item": "Издание",
+    "recordTypes.item": "Экземпляр",
     "recordTypes.instance": "Экземпляр",
     "recordTypes.holdings": "Фонды",
     "recordTypes.marc-bib": "MARC Bibliographic",
@@ -25,7 +25,7 @@
     "search": "Поиск",
     "mappingProfilesCount": "{count, number} field mapping {count, plural, one {profile} other {profiles}}",
     "new": "New",
-    "recordTypes.items": "Издания",
+    "recordTypes.items": "Экземпляры",
     "validation.enterValue": "Пожалуйста, введите значение",
     "jobProfilesTitle": "Профили работы",
     "jobProfilesCount": "{count, number} job {count, plural, one {profile} other {profiles}}"

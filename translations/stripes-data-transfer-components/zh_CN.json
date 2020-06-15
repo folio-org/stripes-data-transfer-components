@@ -23,10 +23,10 @@
     "recordTypes.marc-auth": "MARC规范",
     "recordTypes.marc-hold": "MARC馆藏",
     "search": "搜索",
-    "mappingProfilesCount": "{count, number} field mapping {count, plural, one {profile} other {profiles}}",
-    "new": "New",
-    "recordTypes.items": "Items",
-    "validation.enterValue": "Please enter a value",
-    "jobProfilesTitle": "Job profiles",
-    "jobProfilesCount": "{count, number} job {count, plural, one {profile} other {profiles}}"
+    "mappingProfilesCount": "{count, number} 字段映射 {count, plural, one { 配置文件 } other { 配置文件 }}",
+    "new": "新建",
+    "recordTypes.items": "单件",
+    "validation.enterValue": "请输入一个值",
+    "jobProfilesTitle": "任务配置文件",
+    "jobProfilesCount": "{count, number}任务{count, number} {count, plural, one {配置文件} other {配置文件}}"
 }
