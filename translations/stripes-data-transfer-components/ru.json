@@ -2,9 +2,9 @@
     "loading": "Loading",
     "fileName": "File name",
     "jobExecutionHrId": "ID",
-    "jobProfileName": "Job profile",
+    "jobProfileName": "Профиль задания",
     "records": "Records",
-    "jobCompletedDate": "Ended running",
+    "jobCompletedDate": "Выполнение завершено",
     "runBy": "Run by",
     "profiles": "Профили",
     "learnMore": "Подробнее",
@@ -27,6 +27,6 @@
     "new": "New",
     "recordTypes.items": "Экземпляры",
     "validation.enterValue": "Пожалуйста, введите значение",
-    "jobProfilesTitle": "Профили работы",
-    "jobProfilesCount": "{count, number} job {count, plural, one {profile} other {profiles}}"
+    "jobProfilesTitle": "Профили заданий",
+    "jobProfilesCount": "{count, number} задания(ий) {count, plural, one {profile} other {profiles}}"
 }
