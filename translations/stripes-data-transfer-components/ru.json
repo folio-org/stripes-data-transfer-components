@@ -19,7 +19,7 @@
     "recordTypes.item": "Экземпляр",
     "recordTypes.instance": "Экземпляр",
     "recordTypes.holdings": "Фонды",
-    "recordTypes.marc-bib": "MARC Bibliographic",
+    "recordTypes.marc-bib": "Библиографическая MARC-запись",
     "recordTypes.marc-auth": "Авторитетная MARC-запись",
     "recordTypes.marc-hold": "MARC Holdings",
     "search": "Поиск",
