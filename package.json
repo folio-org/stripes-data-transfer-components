@@ -58,7 +58,7 @@
     "react-router-dom": "*"
   },
   "stripes": {
-    "actsAs": [""],
+    "type": "",
     "icons": [
       {
         "name": "mappingProfiles",
