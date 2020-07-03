@@ -83,23 +83,6 @@
         "maxBOF": 0
       }
     ],
-    "react/prop-types": [
-      "error",
-      {
-        "skipUndeclared": true
-      }
-    ],
-    "react/jsx-one-expression-per-line": "off",
-    "react/jsx-wrap-multilines": [
-      "error"
-    ],
-    "react/jsx-max-props-per-line": [
-      "error",
-      {
-        "maximum": 1,
-        "when": "always"
-      }
-    ],
     "no-void": "off",
     "comma-dangle": [
       "error",
@@ -119,6 +102,7 @@
       "error",
       "as-needed"
     ],
+    "no-use-before-define": "off",
     "prefer-template": "error",
     "no-else-return": "error",
     "newline-per-chained-call": "error",
@@ -126,8 +110,34 @@
       "error",
       "unix"
     ],
-    "react/jsx-no-useless-fragment": "error",
-    "no-use-before-define": "off",
-    "prefer-object-spread": "off"
+    "prefer-object-spread": "off",
+    "react/prop-types": [
+      "error",
+      {
+        "skipUndeclared": true
+      }
+    ],
+    "react/jsx-one-expression-per-line": "off",
+    "react/jsx-wrap-multilines": [
+      "error"
+    ],
+    "react/jsx-max-props-per-line": [
+      "error",
+      {
+        "maximum": 1,
+        "when": "always"
+      }
+    ],
+    "react/jsx-sort-props": [
+      1,
+      {
+        "noSortAlphabetically": true,
+        "ignoreCase": true,
+        "callbacksLast": true,
+        "shorthandLast": false,
+        "reservedFirst": false
+      }
+    ],
+    "react/jsx-no-useless-fragment": "error"
   }
 }
