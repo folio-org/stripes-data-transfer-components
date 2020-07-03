@@ -28,5 +28,8 @@
   "recordTypes.marc-hold": "MARC Holdings",
   "search": "Search",
   "validation.enterValue": "Please enter a value",
-  "new": "New"
+  "new": "New",
+  "edit": "Edit",
+  "duplicate": "Duplicate",
+  "delete": "Delete"
 }
