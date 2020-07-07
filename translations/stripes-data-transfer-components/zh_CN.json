@@ -28,5 +28,8 @@
     "recordTypes.items": "单件",
     "validation.enterValue": "请输入一个值",
     "jobProfilesTitle": "任务配置文件",
-    "jobProfilesCount": "{count, number}任务{count, number} {count, plural, one {配置文件} other {配置文件}}"
+    "jobProfilesCount": "{count, number}任务{count, number} {count, plural, one {配置文件} other {配置文件}}",
+    "edit": "Edit",
+    "duplicate": "Duplicate",
+    "delete": "Delete"
 }
