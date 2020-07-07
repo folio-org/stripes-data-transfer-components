@@ -28,5 +28,8 @@
     "recordTypes.items": "Экземпляры",
     "validation.enterValue": "Пожалуйста, введите значение",
     "jobProfilesTitle": "Профили заданий",
-    "jobProfilesCount": "{count, number} задания(ий) {count, plural, one {profile} other {profiles}}"
+    "jobProfilesCount": "{count, number} задания(ий) {count, plural, one {profile} other {profiles}}",
+    "edit": "Редактировать",
+    "duplicate": "Дубликат",
+    "delete": "Удалить"
 }

@@ -28,5 +28,8 @@
     "recordTypes.items": "Itens",
     "validation.enterValue": "Por favor insira um valor",
     "jobProfilesTitle": "Perfis de job",
-    "jobProfilesCount": "{count, number} job {count, plural, one {perfil} other {perfis}}"
+    "jobProfilesCount": "{count, number} job {count, plural, one {perfil} other {perfis}}",
+    "edit": "Editar",
+    "duplicate": "Duplicar",
+    "delete": "Excluir"
 }
