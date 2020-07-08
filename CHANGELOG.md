@@ -6,6 +6,7 @@
 * Add job name display in job logs and executions. UIDEXP-116.
 * Extend `SettingsLabel` with ability to provide arbitrary label content. UIDEXP-86.
 * Extend `FullScreenView` to accept `actionMenu` prop. Sync up eslint config with data-export and replace deprecated `type` with `actAs` in package.json. UIDEXP-84.
+* Update list formatters and list properties generators to fix rows accessibility. UIDEXP-117.
 
 ## [2.0.0](https://github.com/folio-org/stripes-data-transfer-components/tree/v2.0.0) (2020-06-12)
 [Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/tree/v1.0.1...v2.0.0)
