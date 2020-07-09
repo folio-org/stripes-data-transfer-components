@@ -1,11 +1,13 @@
 # Change history for stripes-data-transfer-components
 
-## 2.0.1 (IN PROGRESS)
+## [2.0.1](https://github.com/folio-org/stripes-data-transfer-components/tree/v2.0.1) (2020-07-09)
+[Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/tree/v2.0.0...v2.0.1)
 * Fix error screen display in case of missed user information in job executions. UIDEXP-107.
-* Update properties in ProfilesPopoverInteractor and export ProfilesLabelInteractors. UIDEXP-53.
+* Update properties in `ProfilesPopoverInteractor` and export `ProfilesLabelInteractors`. UIDEXP-53.
 * Add job name display in job logs and executions. UIDEXP-116.
 * Extend `SettingsLabel` with ability to provide arbitrary label content. UIDEXP-86.
 * Extend `FullScreenView` to accept `actionMenu` prop. Sync up eslint config with data-export and replace deprecated `type` with `actAs` in package.json. UIDEXP-84.
+* Update translations
 
 ## [2.0.0](https://github.com/folio-org/stripes-data-transfer-components/tree/v2.0.0) (2020-06-12)
 [Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/tree/v1.0.1...v2.0.0)
