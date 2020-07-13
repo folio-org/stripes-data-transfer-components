@@ -2,6 +2,7 @@
 
 ## 2.1.0 (IN PROGRESS)
 * Update list formatters and list properties generators to fix rows accessibility. UIDEXP-117.
+* Update export and imports to make them consistent using named approach. STDTC-3.
 
 ## [2.0.1](https://github.com/folio-org/stripes-data-transfer-components/tree/v2.0.1) (2020-07-09)
 [Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/tree/v2.0.0...v2.0.1)

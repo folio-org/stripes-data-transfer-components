@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 
 import { withStripes } from '@folio/stripes-core';
 
-export default function connectStripes(component) {
+export function connectStripes(component) {
   class Connected extends Component {
     static propTypes = { stripes: PropTypes.object };
 

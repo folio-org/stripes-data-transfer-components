@@ -3,8 +3,8 @@ export * from './lib/SearchAndSortPane/tests/SearchAndSortInteractor';
 export * from './lib/FullScreenForm/tests/interactor';
 export * from './lib/FullScreenView/tests/interactor';
 export * from './lib/Settings/ProfilesLabel/tests/interactors';
-export { default as PreloaderInteractor } from './lib/Preloader/tests/interactor';
-export { default as ProgressInteractor } from './lib/Progress/tests/interactor';
+export * from './lib/Preloader/tests/interactor';
+export * from './lib/Progress/tests/interactor';
 
 export {
   mount,

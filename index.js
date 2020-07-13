@@ -1,4 +1,4 @@
-export { default as EndOfItem } from './lib/EndOfItem';
+export * from './lib/EndOfItem';
 export {
   JobsList,
   Job,
@@ -6,8 +6,8 @@ export {
   sortRunningJobs,
   JobsListAccordion,
 } from './lib/Jobs';
-export { Progress } from './lib/Progress';
-export { default as Preloader } from './lib/Preloader';
+export * from './lib/Progress';
+export * from './lib/Preloader';
 export {
   sortCollection,
   createUrl,
