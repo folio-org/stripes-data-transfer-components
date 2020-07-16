@@ -7,7 +7,7 @@
     "jobCompletedDate": "Fin de l'opération",
     "runBy": "Exécuté par",
     "profiles": "Profils",
-    "learnMore": "Learn more",
+    "learnMore": "En savoir plus",
     "name": "Nom",
     "folioRecordType": "Type d'enregistrement FOLIO",
     "updated": "Mis à jour",
@@ -29,7 +29,7 @@
     "validation.enterValue": "Merci de saisir une valeur",
     "jobProfilesTitle": "Profils de tâche",
     "jobProfilesCount": "{count, number} job {count, plural, one {profile} other {profiles}}",
-    "edit": "Edit",
-    "duplicate": "Duplicate",
-    "delete": "Delete"
+    "edit": "Modifier",
+    "duplicate": "Dupliquer",
+    "delete": "Supprimer"
 }
