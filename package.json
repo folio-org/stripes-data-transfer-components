@@ -19,7 +19,6 @@
   },
   "devDependencies": {
     "@bigtest/interactor": "^0.7.2",
-    "@bigtest/mirage": "^0.0.1",
     "@bigtest/mocha": "^0.5.2",
     "@bigtest/react": "^0.1.2",
     "@folio/stripes-cli": "^1.10.0",
