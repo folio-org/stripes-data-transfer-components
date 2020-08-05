@@ -1,10 +1,11 @@
 # Change history for stripes-data-transfer-components
 
-## 2.1.0 (IN PROGRESS)
+## 3.0.0 (IN PROGRESS)
 * Update list formatters and list properties generators to fix rows accessibility. UIDEXP-117.
 * Update export and imports to make them consistent using named approach. STDTC-3.
 * Remove `@bigtest/mirage` and mirage config files. STDTC-14.
 * Update `FullScreenView` component to support `renderHeader` prop. UIDATIMP-535.
+* Update `stripes` to `v5.0.0` and `react-router-dom` to `5.2.0`. Enforce named export usage in `eslint`. Remove `actsAs` from stripes config. STDTC-13.
 
 ## [2.0.1](https://github.com/folio-org/stripes-data-transfer-components/tree/v2.0.1) (2020-07-09)
 [Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/tree/v2.0.0...v2.0.1)
