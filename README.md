@@ -14,6 +14,7 @@ duties. Other modules and applications may not find them as useful.
 
 ## Additional information
 
+Project [code style guide](./CODESTYLEGUIDE.md).
 Other [modules](https://dev.folio.org/source-code/#client-side).
 
 See projects [UIDEXP](https://issues.folio.org/projects/UIDEXP), [UIDATIMP](https://issues.folio.org/projects/UIDATIMP)
