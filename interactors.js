@@ -5,6 +5,7 @@ export * from './lib/FullScreenView/tests/interactor';
 export * from './lib/Settings/ProfilesLabel/tests/interactors';
 export * from './lib/Preloader/tests/interactor';
 export * from './lib/Progress/tests/interactor';
+export * from './lib/OverlayView/tests/interactor';
 
 export {
   mount,
