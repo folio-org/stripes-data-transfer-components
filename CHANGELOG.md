@@ -8,6 +8,7 @@
 * Update `stripes` to `v5.0.0` and `react-router-dom` to `5.2.0`. Enforce named export usage in `eslint`. Remove `actsAs` from stripes config. STDTC-13.
 * Update `FullScreenView` component to support `noValidate` prop. STDTC-16.
 * Add `OverlayView` component and extend JobLogs API. UIDEXP-18.
+* Extend `SortAndSearchPane` to accept `excludedSortColumns` and `shouldSetInitialSortOnMount` prop. UIDEXP-142.
 
 ## [2.0.1](https://github.com/folio-org/stripes-data-transfer-components/tree/v2.0.1) (2020-07-09)
 [Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/tree/v2.0.0...v2.0.1)
