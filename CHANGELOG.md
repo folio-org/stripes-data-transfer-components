@@ -9,6 +9,7 @@
 * Update `FullScreenView` component to support `noValidate` prop. STDTC-16.
 * Add `OverlayView` component and extend JobLogs API. UIDEXP-18.
 * Extend `SortAndSearchPane` to accept `excludedSortColumns` and `shouldSetInitialSortOnMount` prop. UIDEXP-142.
+* Update `react-intl` to v5.7.0. STDTC-15.
 
 ## [2.0.1](https://github.com/folio-org/stripes-data-transfer-components/tree/v2.0.1) (2020-07-09)
 [Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/tree/v2.0.0...v2.0.1)

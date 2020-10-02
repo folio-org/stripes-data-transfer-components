@@ -34,7 +34,7 @@
     "react": "^16.5.0",
     "react-dom": "^16.5.0",
     "react-router-dom": "^5.2.0",
-    "react-intl": "^4.7.2",
+    "react-intl": "^5.7.0",
     "regenerator-runtime": "^0.13.3",
     "core-js": "^3.6.1",
     "sinon": "^7.1.1"
@@ -52,7 +52,7 @@
     "@folio/stripes": "^5.0.0",
     "pretender": "*",
     "react": "*",
-    "react-intl": "^4.7.2",
+    "react-intl": "^5.7.0",
     "react-router": "*",
     "react-router-dom": "*"
   },
