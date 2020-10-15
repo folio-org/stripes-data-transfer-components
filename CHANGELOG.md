@@ -1,6 +1,9 @@
 # Change history for stripes-data-transfer-components
 
-## 3.0.0 (IN PROGRESS)
+## 4.0.0 (IN PROGRESS)
+
+## [3.0.0](https://github.com/folio-org/stripes-data-transfer-components/tree/v3.0.0) (2020-10-15)
+[Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/tree/v2.0.1...v3.0.0)
 * Update list formatters and list properties generators to fix rows accessibility. UIDEXP-117.
 * Update export and imports to make them consistent using named approach. STDTC-3.
 * Remove `@bigtest/mirage` and mirage config files. STDTC-14.
@@ -11,6 +14,7 @@
 * Extend `SortAndSearchPane` to accept `excludedSortColumns` and `shouldSetInitialSortOnMount` prop. UIDEXP-142.
 * Update `react-intl` to v5.7.0. STDTC-15.
 * Fix date and time display in Safari. UIDEXP-175.
+* Update translations
 
 ## [2.0.1](https://github.com/folio-org/stripes-data-transfer-components/tree/v2.0.1) (2020-07-09)
 [Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/tree/v2.0.0...v2.0.1)
