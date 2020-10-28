@@ -12,4 +12,4 @@ export {
   mountWithContext,
   wait,
 } from './test/bigtest/helpers';
-export * from './test/bigtest/helpers/stripesResourcesMocks';
+export * from './test/helpers/stripesResourcesMocks';

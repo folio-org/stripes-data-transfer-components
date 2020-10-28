@@ -1,6 +1,7 @@
 # Change history for stripes-data-transfer-components
 
 ## 4.0.0 (IN PROGRESS)
+* Export test utils in order to reuse them in data-export for writing tests with jest/react-testing-library. UIDEXP-179.
 
 ## [3.0.0](https://github.com/folio-org/stripes-data-transfer-components/tree/v3.0.0) (2020-10-15)
 [Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/tree/v2.0.1...v3.0.0)
