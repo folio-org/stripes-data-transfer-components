@@ -31,5 +31,6 @@
     "jobProfilesCount": "{count, number} job {count, plural, one {perfil} other {perfis}}",
     "edit": "Editar",
     "duplicate": "Duplicar",
-    "delete": "Excluir"
+    "delete": "Excluir",
+    "recordTypes.srs": "Armazenamento de registro de origem (registro inteiro)"
 }

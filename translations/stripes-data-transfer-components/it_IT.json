@@ -4,7 +4,7 @@
     "jobExecutionHrId": "ID",
     "jobProfileName": "Job profile",
     "records": "Records",
-    "jobCompletedDate": "Ended running",
+    "jobCompletedDate": "Esecuzione terminata",
     "runBy": "Run by",
     "profiles": "Profiles",
     "learnMore": "Learn more",
@@ -31,5 +31,6 @@
     "jobProfilesCount": "{count, number} job {count, plural, one {profile} other {profiles}}",
     "edit": "Edit",
     "duplicate": "Duplicate",
-    "delete": "Delete"
+    "delete": "Delete",
+    "recordTypes.srs": "Source record storage (entire record)"
 }

@@ -31,5 +31,6 @@
     "jobProfilesCount": "{count, number} задания(ий) {count, plural, one {profile} other {profiles}}",
     "edit": "Редактировать",
     "duplicate": "Дубликат",
-    "delete": "Удалить"
+    "delete": "Удалить",
+    "recordTypes.srs": "Source record storage (entire record)"
 }

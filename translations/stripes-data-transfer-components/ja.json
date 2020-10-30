@@ -1,5 +1,5 @@
 {
-    "loading": "Loading",
+    "loading": "読み込み中",
     "fileName": "ファイル名",
     "jobExecutionHrId": "ID",
     "jobProfileName": "ジョブ・プロファイル",
@@ -10,14 +10,14 @@
     "learnMore": "詳細情報",
     "name": "名称",
     "folioRecordType": "FOLIOレコードタイプ",
-    "updated": "Updated",
+    "updated": "更新",
     "updatedBy": "更新者",
-    "mappingProfilesTitle": "Field mapping profiles",
+    "mappingProfilesTitle": "フィールド・マッピング・プロファイル",
     "recordTypes.order": "Order",
     "recordTypes.orderLine": "Order & order line",
     "recordTypes.invoice": "Invoice",
     "recordTypes.item": "Item",
-    "recordTypes.instance": "Instance",
+    "recordTypes.instance": "インスタンス",
     "recordTypes.holdings": "Holdings",
     "recordTypes.marc-bib": "MARC Bibliographic",
     "recordTypes.marc-auth": "MARC Authority",
@@ -29,7 +29,8 @@
     "validation.enterValue": "Please enter a value",
     "jobProfilesTitle": "ジョブ・プロファイル",
     "jobProfilesCount": "{count, number} job {count, plural, one {profile} other {profiles}}",
-    "edit": "Edit",
+    "edit": "編集",
     "duplicate": "Duplicate",
-    "delete": "Delete"
+    "delete": "Delete",
+    "recordTypes.srs": "Source record storage (entire record)"
 }
