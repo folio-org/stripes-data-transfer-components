@@ -31,5 +31,6 @@
     "jobProfilesCount": "{count, number} وظيفة {count, plural, one {وضع} other {أوضاع}}",
     "edit": "تحرير",
     "duplicate": "تكرار",
-    "delete": "حذف"
+    "delete": "حذف",
+    "recordTypes.srs": "تخزين تسجيلة المصدر (التسجيلة بأكملها)"
 }
