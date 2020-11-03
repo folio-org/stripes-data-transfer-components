@@ -2,6 +2,7 @@
 
 ## 4.0.0 (IN PROGRESS)
 * Updated interactors related to the `<InfoPopover>` implementation to fix tests. UIDEXP-190.
+* Extend `<Preloader>` component with additional props. UIDATIMP-580.
 
 ## [3.0.0](https://github.com/folio-org/stripes-data-transfer-components/tree/v3.0.0) (2020-10-15)
 [Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/tree/v2.0.1...v3.0.0)
