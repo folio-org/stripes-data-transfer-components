@@ -21,7 +21,7 @@
   "recordTypes.invoice": "Invoice",
   "recordTypes.item": "Item",
   "recordTypes.items": "Items",
-  "recordTypes.instance": "Inventory instance (selected fields)",
+  "recordTypes.instance": "Instance",
   "recordTypes.holdings": "Holdings",
   "recordTypes.marc-bib": "MARC Bibliographic",
   "recordTypes.marc-auth": "MARC Authority",
