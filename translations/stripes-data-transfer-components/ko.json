@@ -31,5 +31,6 @@
     "jobProfilesCount": "{count, number} job {count, plural, one { profile } other { profiles }}",
     "edit": "편집",
     "duplicate": "복제",
-    "delete": "삭제"
+    "delete": "삭제",
+    "recordTypes.srs": "Source record storage (entire record)"
 }
