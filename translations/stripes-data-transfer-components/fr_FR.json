@@ -31,5 +31,6 @@
     "jobProfilesCount": "{count, number} job {count, plural, one {profile} other {profiles}}",
     "edit": "Modifier",
     "duplicate": "Dupliquer",
-    "delete": "Supprimer"
+    "delete": "Supprimer",
+    "recordTypes.srs": "Source record storage (entire record)"
 }

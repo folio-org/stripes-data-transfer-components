@@ -31,5 +31,6 @@
     "jobProfilesCount": "{count, number}任务{count, number} {count, plural, one {配置文件} other {配置文件}}",
     "edit": "编辑",
     "duplicate": "复制",
-    "delete": "删除"
+    "delete": "删除",
+    "recordTypes.srs": "Source record storage (entire record)"
 }
