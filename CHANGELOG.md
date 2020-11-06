@@ -6,6 +6,7 @@
 * Updated interactors related to the `<InfoPopover>` implementation to fix tests. UIDEXP-190.
 * Add Source Record Storage type. UIDEXP-178.
 * Extend `<Preloader>` component with additional props. UIDATIMP-580.
+* Setup jest/react-testing-library and cover `EndOfItem` and `Progress` components and util methods with tests. STDTC-18.
 
 ## [3.0.0](https://github.com/folio-org/stripes-data-transfer-components/tree/v3.0.0) (2020-10-15)
 [Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/tree/v2.0.1...v3.0.0)

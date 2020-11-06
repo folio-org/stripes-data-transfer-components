@@ -2,8 +2,8 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { IntlProvider } from 'react-intl';
 
-import { prefixKeys } from './prefixKeys';
 import translations from '../../translations/stripes-data-transfer-components/en';
+import { prefixKeys } from './prefixKeys';
 import { mockOffsetSize } from './mockOffsetSize';
 
 export function Harness({
