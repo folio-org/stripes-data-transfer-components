@@ -1,7 +1,6 @@
 buildNPM {
-  publishModDescriptor = 'yes'
-  runLint = 'yes'
+  publishModDescriptor = true
+  runLint = true
+  runTest = true
   runSonarqube = true
-  runTest = 'yes'
-  runTestOptions = '--karma.singleRun --karma.browsers ChromeDocker --karma.reporters mocha junit --coverage'
 }

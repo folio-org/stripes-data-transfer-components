@@ -8,7 +8,6 @@ export * from './lib/Progress/tests/interactor';
 export * from './lib/OverlayView/tests/interactor';
 
 export {
-  mount,
   mountWithContext,
   wait,
 } from './test/bigtest/helpers';
