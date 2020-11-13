@@ -2,7 +2,7 @@
 
 ## 3.1.0 (IN PROGRESS)
 
-## [3.0.1](https://github.com/folio-org/stripes-data-transfer-components/tree/v3.0.1) (2020-11-13)
+## [3.0.2](https://github.com/folio-org/stripes-data-transfer-components/tree/v3.0.1) (2020-11-13)
 [Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/tree/v3.0.0...v3.0.1)
 * Extend `<Preloader>` component with additional props. UIDATIMP-580.
 * Handle missing job progress field. STDTC-21.
