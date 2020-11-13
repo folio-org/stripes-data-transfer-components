@@ -1,15 +1,19 @@
 # Change history for stripes-data-transfer-components
 
-## 4.0.0 (IN PROGRESS)
+## 3.1.0 (IN PROGRESS)
 * Export test utils in order to reuse them in data-export for writing tests with jest/react-testing-library. UIDEXP-179.
 * Reuse `<JobsListAccordion>` component from `stripes-data-transfer-components` rep (UIDATIMP-574)
 * Updated interactors related to the `<InfoPopover>` implementation to fix tests. UIDEXP-190.
 * Add Source Record Storage type. UIDEXP-178.
-* Extend `<Preloader>` component with additional props. UIDATIMP-580.
 * Setup jest/react-testing-library and cover `EndOfItem` and `Progress` components and util methods with tests. STDTC-18.
 * Get rid of default `notLoadedMessage` value for `SearchResults` component. UIDATIMP-581.
 * Extend `<SearchForm>` component with additional props. UIDATIMP-582.
+
+## [3.0.2](https://github.com/folio-org/stripes-data-transfer-components/tree/v3.0.2) (2020-11-13)
+[Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/tree/v3.0.0...v3.0.2)
+* Extend `<Preloader>` component with additional props. UIDATIMP-580.
 * Handle missing job progress field. STDTC-21.
+* Update translations
 
 ## [3.0.0](https://github.com/folio-org/stripes-data-transfer-components/tree/v3.0.0) (2020-10-15)
 [Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/tree/v2.0.1...v3.0.0)
