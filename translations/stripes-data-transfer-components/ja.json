@@ -18,7 +18,7 @@
     "recordTypes.invoice": "Invoice",
     "recordTypes.item": "Item",
     "recordTypes.instance": "インスタンス",
-    "recordTypes.holdings": "Holdings",
+    "recordTypes.holdings": "所蔵",
     "recordTypes.marc-bib": "MARC Bibliographic",
     "recordTypes.marc-auth": "MARC Authority",
     "recordTypes.marc-hold": "MARC Holdings",
