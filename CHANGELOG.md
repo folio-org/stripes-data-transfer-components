@@ -9,6 +9,7 @@
 * Get rid of default `notLoadedMessage` value for `SearchResults` component. UIDATIMP-581.
 * Extend `<SearchForm>` component with additional props. UIDATIMP-582.
 * Rewrite `DataFetcher` using functional component notation. STDTC-34.
+* Update `getHookExecutionResult` in order for it to be able to return function. UIDEXP-143.
 
 ## [3.0.2](https://github.com/folio-org/stripes-data-transfer-components/tree/v3.0.2) (2020-11-13)
 [Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/tree/v3.0.0...v3.0.2)
