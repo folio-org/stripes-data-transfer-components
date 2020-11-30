@@ -58,12 +58,12 @@
     "lodash": "^4.16.4",
     "prop-types": "^15.6.0",
     "query-string": "^5.0.0",
+    "pretender": "^3.4.3",
     "react-dropzone": "^7.0.1",
     "react-router-prop-types": "^1.0.4"
   },
   "peerDependencies": {
     "@folio/stripes": "^5.0.0",
-    "pretender": "*",
     "react": "*",
     "react-intl": "^5.7.0",
     "react-router": "*",
