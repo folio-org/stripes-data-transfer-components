@@ -9,6 +9,7 @@ export * from './lib/OverlayView/tests/interactor';
 
 export {
   mountWithContext,
+  getHookExecutionResult,
   wait,
 } from './test/bigtest/helpers';
 export * from './test/helpers/stripesResourcesMocks';
