@@ -12,7 +12,7 @@
 * Update `getHookExecutionResult` in order for it to be able to return function. UIDEXP-143.
 * Move pretender to dev dependencies. UIDEXP-186.
 * Change focus when user clicks on Data import app. UIDATIMP-775.
-* Export `getHookExecutionResult` for BigTest tests. UIDEXP-213.
+* Export `getHookExecutionResult` for BigTest tests and adjust it for BigTest and jest to work with translations. UIDEXP-213.
 
 ## [3.0.2](https://github.com/folio-org/stripes-data-transfer-components/tree/v3.0.2) (2020-11-13)
 [Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/tree/v3.0.0...v3.0.2)

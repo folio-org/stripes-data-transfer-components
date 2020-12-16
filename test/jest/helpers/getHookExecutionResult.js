@@ -3,7 +3,7 @@ import { isFunction } from 'lodash';
 
 import { renderWithIntl } from './renderWithIntl';
 
-export const getHookExecutionResult = (hook, hookArguments = []) => {
+export const getHookExecutionResult = (hook, hookArguments = [], translations = []) => {
   let result = {};
   const TestComponent = () => {
     const hookResult = hook(...hookArguments);
@@ -17,7 +17,7 @@ export const getHookExecutionResult = (hook, hookArguments = []) => {
     return null;
   };
 
-  renderWithIntl(<TestComponent />);
+  renderWithIntl(<TestComponent />, translations);
 
   return result;
 };
