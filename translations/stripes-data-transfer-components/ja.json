@@ -4,7 +4,7 @@
     "jobExecutionHrId": "ID",
     "jobProfileName": "ジョブ・プロファイル",
     "records": "レコード",
-    "jobCompletedDate": "実行を終了しました",
+    "jobCompletedDate": "実行完了日時",
     "runBy": "実行者",
     "profiles": "プロファイル",
     "learnMore": "詳細情報",
