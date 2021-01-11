@@ -18,7 +18,7 @@
     "recordTypes.invoice": "Facture",
     "recordTypes.item": "Article",
     "recordTypes.instance": "Instance",
-    "recordTypes.holdings": "Holdings",
+    "recordTypes.holdings": "Collections",
     "recordTypes.marc-bib": "MARC Bibliographic",
     "recordTypes.marc-auth": "MARC Authority",
     "recordTypes.marc-hold": "MARC Holdings",
