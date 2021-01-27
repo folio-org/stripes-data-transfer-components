@@ -1,19 +1,42 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { IntlProvider } from 'react-intl';
+import { noop } from 'lodash';
+import {
+  QueryClientProvider,
+  QueryClient,
+} from 'react-query';
+
+import { StripesContext } from '@folio/stripes-core/src/StripesContext';
+import createReactQueryClient from '@folio/stripes-core/src/createReactQueryClient';
 
 import translations from '../../translations/stripes-data-transfer-components/en';
 import { prefixKeys } from './prefixKeys';
 import { mockOffsetSize } from './mockOffsetSize';
 
+const stripesDefaultProps = {
+  okapi: { url: '' },
+  logger: { log: noop },
+  connect: Component => props => (
+    <Component
+      {... props}
+      mutator={{}}
+      resources={{}}
+    />
+  ),
+};
+const reactQueryClient = new QueryClient(createReactQueryClient());
+
 export function Harness({
-  children,
   translations: translationsConfig,
   shouldMockOffsetSize = true,
   width = 500,
   height = 500,
+  stripesCustomProps = {},
+  children,
 }) {
   const allTranslations = prefixKeys(translations);
+  const stripes = Object.assign({}, stripesDefaultProps, stripesCustomProps);
 
   translationsConfig.forEach(tx => {
     Object.assign(allTranslations, prefixKeys(tx.translations, tx.prefix));
@@ -24,14 +47,18 @@ export function Harness({
   }
 
   return (
-    <IntlProvider
-      locale="en"
-      key="en"
-      timeZone="UTC"
-      messages={allTranslations}
-    >
-      {children}
-    </IntlProvider>
+    <StripesContext.Provider value={stripes}>
+      <QueryClientProvider client={reactQueryClient}>
+        <IntlProvider
+          locale="en"
+          key="en"
+          timeZone="UTC"
+          messages={allTranslations}
+        >
+          {children}
+        </IntlProvider>
+      </QueryClientProvider>
+    </StripesContext.Provider>
   );
 }
 
@@ -43,13 +70,8 @@ Harness.propTypes = {
       translations: PropTypes.object,
     })
   ),
+  stripesCustomProps: PropTypes.object,
   shouldMockOffsetSize: PropTypes.bool,
   width: PropTypes.number,
   height: PropTypes.number,
-};
-
-Harness.defaultProps = {
-  width: 500,
-  height: 500,
-  shouldMockOffsetSize: true,
 };
