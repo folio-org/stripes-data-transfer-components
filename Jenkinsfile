@@ -3,4 +3,5 @@ buildNPM {
   runLint = true
   runTest = true
   runSonarqube = true
+  sonarScanDirs = './lib'
 }
