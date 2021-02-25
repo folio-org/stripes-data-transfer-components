@@ -17,6 +17,7 @@
 * Refactor `onNeedMore` function for `SearchResults` component. UIDATIMP-763.
 * Update `stripes` to `v6.0.0`. STDTC-35.
 * Extend `Harnses` test setup component with `react-query` and `stripes` providers. UIDEXP-224.
+* Update `stripes-cli` to `v2.0.0`. STDTC-38.
 
 ## [3.0.2](https://github.com/folio-org/stripes-data-transfer-components/tree/v3.0.2) (2020-11-13)
 [Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/tree/v3.0.0...v3.0.2)
