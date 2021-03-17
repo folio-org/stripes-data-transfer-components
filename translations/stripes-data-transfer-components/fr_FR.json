@@ -12,7 +12,7 @@
     "folioRecordType": "Type d'enregistrement FOLIO",
     "updated": "Mis à jour",
     "updatedBy": "Mis à jour par",
-    "mappingProfilesTitle": "Field mapping profiles",
+    "mappingProfilesTitle": "Profils de mapping de champs",
     "recordTypes.order": "Commande",
     "recordTypes.orderLine": "Commande et ligne de commande",
     "recordTypes.invoice": "Facture",
