@@ -1,9 +1,9 @@
 # Change history for stripes-data-transfer-components
 
-## 4.0.0 (IN PROGRESS)
+## 4.1.0 (IN PROGRESS)
 
-## [3.1.0](https://github.com/folio-org/stripes-data-transfer-components/tree/v3.1.0) (2021-03-11)
-[Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/tree/v3.0.2...v3.1.0)
+## [4.0.0](https://github.com/folio-org/stripes-data-transfer-components/tree/v4.0.0) (2021-03-11)
+[Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/tree/v3.0.2...v4.0.0)
 * Export test utils in order to reuse them in data-export for writing tests with jest/react-testing-library. UIDEXP-179.
 * Reuse `<JobsListAccordion>` component from `stripes-data-transfer-components` rep. UIDATIMP-574.
 * Update interactors related to the `<InfoPopover>` implementation to fix tests. UIDEXP-190.
