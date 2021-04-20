@@ -25,7 +25,7 @@
     "search": "Rechercher",
     "mappingProfilesCount": "{count, number} field mapping {count, plural, one {profile} other {profiles}}",
     "new": "Nouveau",
-    "recordTypes.items": "Articles/éléments",
+    "recordTypes.items": "Exemplaires",
     "validation.enterValue": "Merci de saisir une valeur",
     "jobProfilesTitle": "Profils de tâche",
     "jobProfilesCount": "{count, number} job {count, plural, one {profile} other {profiles}}",
