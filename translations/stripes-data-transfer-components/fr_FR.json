@@ -16,7 +16,7 @@
     "recordTypes.order": "Commande",
     "recordTypes.orderLine": "Commande et ligne de commande",
     "recordTypes.invoice": "Facture",
-    "recordTypes.item": "Article",
+    "recordTypes.item": "Exemplaire",
     "recordTypes.instance": "Instance",
     "recordTypes.holdings": "Collections",
     "recordTypes.marc-bib": "MARC Bibliographic",
