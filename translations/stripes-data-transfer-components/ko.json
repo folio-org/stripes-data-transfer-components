@@ -23,14 +23,14 @@
     "recordTypes.marc-auth": "MARC Authority",
     "recordTypes.marc-hold": "MARC Holdings",
     "search": "검색",
-    "mappingProfilesCount": "{count, number} 필드 매핑 {count, plural, one { profile } other { profiles }}",
+    "mappingProfilesCount": "{개수, 숫자} 필드 매핑 {개수, 복수, {프로파일} 기타 {프로파일}}",
     "new": "신규",
     "recordTypes.items": "항목",
     "validation.enterValue": "값을 입력하세요",
     "jobProfilesTitle": "작업 프로필",
-    "jobProfilesCount": "{count, number} job {count, plural, one { profile } other { profiles }}",
+    "jobProfilesCount": "{개수, 숫자} 작업 {개수, 복수, {프로파일} 기타 {프로파일}}",
     "edit": "편집",
     "duplicate": "복제",
     "delete": "삭제",
-    "recordTypes.srs": "Source record storage (entire record)"
+    "recordTypes.srs": "소스 레코드 저장 (전체 레코드)"
 }
