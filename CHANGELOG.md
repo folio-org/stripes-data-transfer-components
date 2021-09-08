@@ -1,6 +1,7 @@
 # Change history for stripes-data-transfer-components
 
 ## 4.2.0 (IN PROGRESS)
+* increment stripes to v7. Refs STDTC-42.
 
 ## [4.1.0](https://github.com/folio-org/stripes-data-transfer-components/tree/v4.1.0) (2021-06-10)
 [Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/tree/v4.0.0...v4.1.0)
