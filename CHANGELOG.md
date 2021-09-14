@@ -8,6 +8,7 @@
 * Add `searchInputRef` prop to the `SearchForm` component. UIDATIMP-898.
 * Add `firstMenu` prop to the `SearchAndSortPane` component. UIDATIMP-913.
 * Update translations
+* Upgrade to latest react-dropzone. STDTC-40
 
 ## [4.0.0](https://github.com/folio-org/stripes-data-transfer-components/tree/v4.0.0) (2021-03-11)
 [Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/tree/v3.0.2...v4.0.0)

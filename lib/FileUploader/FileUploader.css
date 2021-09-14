@@ -5,7 +5,7 @@
   align-items: center;
   flex-direction: column;
   justify-content: center;
-  height: 100%;
+  min-height: 150px;
   padding: var(--gutter);
   border: 1px dashed var(--color-border);
   border-radius: var(--radius);

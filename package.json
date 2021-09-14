@@ -60,7 +60,7 @@
     "pretender": "^3.4.3",
     "prop-types": "^15.6.0",
     "query-string": "^5.0.0",
-    "react-dropzone": "^7.0.1",
+    "react-dropzone": "^11.3.4",
     "react-router-prop-types": "^1.0.4"
   },
   "peerDependencies": {
