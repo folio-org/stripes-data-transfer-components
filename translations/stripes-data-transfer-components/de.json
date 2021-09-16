@@ -27,7 +27,7 @@
     "new": "Neu",
     "recordTypes.items": "Exemplare",
     "validation.enterValue": "Bitte einen Wert eingeben",
-    "jobProfilesTitle": "Job-Profile",
+    "jobProfilesTitle": "Aufgabenprofil",
     "jobProfilesCount": "{count, number} job {count, plural, one {profile} other {profiles}}",
     "edit": "Bearbeiten",
     "duplicate": "Duplizieren",
