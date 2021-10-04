@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import { Harness } from '../../helpers';
+import { Harness } from './index';
 import { getCleanTestingRoot } from './getCleanTestingRoot';
 
 export function mountWithContext(component, translations = [], stripes) {

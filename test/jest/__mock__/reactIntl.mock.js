@@ -14,7 +14,7 @@ jest.mock('react-intl', () => {
       id, children,
     }) => {
       if (children) {
-        return children(id);
+        return children([id]);
       }
 
       return id;
