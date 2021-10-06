@@ -2,12 +2,9 @@
 
 ## IN PROGRESS
 
-## [5.0.0](https://github.com/folio-org/stripes-data-transfer-components/tree/v4.0.0) (2021-10-06)
+## [5.0.0](https://github.com/folio-org/stripes-data-transfer-components/tree/v5.0.0) (2021-10-06)
 [Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/compare/v4.1.0...v5.0.0)
 * Upgrade to latest react-dropzone. STDTC-40
-* increment stripes to v7. Refs STDTC-42.
-
-## [4.2.0]
 * increment stripes to v7. Refs STDTC-42.
 
 ## [4.1.0](https://github.com/folio-org/stripes-data-transfer-components/tree/v4.1.0) (2021-06-10)
