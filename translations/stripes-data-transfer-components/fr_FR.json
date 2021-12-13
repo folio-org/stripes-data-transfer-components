@@ -20,7 +20,7 @@
     "recordTypes.instance": "Instance",
     "recordTypes.holdings": "Collections",
     "recordTypes.marc-bib": "MARC Bibliographique",
-    "recordTypes.marc-auth": "MARC Authority",
+    "recordTypes.marc-auth": "Autorité MARC",
     "recordTypes.marc-hold": "Collections MARC",
     "search": "Rechercher",
     "mappingProfilesCount": "{count, number} champs de mapping {count, plural, one { profil } other { profils }}",
