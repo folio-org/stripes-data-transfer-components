@@ -3,6 +3,7 @@
 ## IN PROGRESS
 
 * Log sort on Data Import landing page not working properly. STDTC-52
+* Move ViewAllLogsFilters component from data-import. STDTC-19
 
 ## [5.0.1](https://github.com/folio-org/stripes-data-transfer-components/tree/v5.0.1) (2021-11-04)
 [Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/compare/v5.0.0...v5.0.1)
