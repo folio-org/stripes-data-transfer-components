@@ -32,5 +32,14 @@
     "edit": "편집",
     "duplicate": "복제",
     "delete": "삭제",
-    "recordTypes.srs": "소스 레코드 저장 (전체 레코드)"
+    "recordTypes.srs": "소스 레코드 저장 (전체 레코드)",
+    "filter.errors": "Errors in import",
+    "filter.date": "Date",
+    "filter.jobProfile": "Job profile",
+    "filter.chooseJobProfile": "Choose job profile",
+    "filter.user": "User",
+    "filter.chooseUser": "Choose user",
+    "filter.singleRecordImports": "Inventory single record imports",
+    "filter.option.no": "no",
+    "filter.option.yes": "yes"
 }
