@@ -32,5 +32,14 @@
     "edit": "تحرير",
     "duplicate": "تكرار",
     "delete": "حذف",
-    "recordTypes.srs": "تخزين تسجيلة المصدر (التسجيلة بأكملها)"
+    "recordTypes.srs": "تخزين تسجيلة المصدر (التسجيلة بأكملها)",
+    "filter.errors": "أخطاء في الاستيراد",
+    "filter.date": "التاريخ",
+    "filter.jobProfile": "بروفايل المهمة",
+    "filter.chooseJobProfile": "اختر بروفايل المهمة",
+    "filter.user": "المستخدم",
+    "filter.chooseUser": "اختر مستخدم",
+    "filter.singleRecordImports": "استيرادات تسجيلة مفردة بالمخزون",
+    "filter.option.no": "لا",
+    "filter.option.yes": "نعم"
 }

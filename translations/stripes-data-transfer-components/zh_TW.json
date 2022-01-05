@@ -32,5 +32,14 @@
     "edit": "编辑",
     "duplicate": "复制",
     "delete": "删除",
-    "recordTypes.srs": "源记录存储（整个记录）"
+    "recordTypes.srs": "源记录存储（整个记录）",
+    "filter.errors": "Errors in import",
+    "filter.date": "Date",
+    "filter.jobProfile": "Job profile",
+    "filter.chooseJobProfile": "Choose job profile",
+    "filter.user": "User",
+    "filter.chooseUser": "Choose user",
+    "filter.singleRecordImports": "Inventory single record imports",
+    "filter.option.no": "no",
+    "filter.option.yes": "yes"
 }

@@ -32,5 +32,14 @@
     "edit": "Editar",
     "duplicate": "Duplicar",
     "delete": "Eliminar",
-    "recordTypes.srs": "Source record storage (entire record)"
+    "recordTypes.srs": "Source record storage (entire record)",
+    "filter.errors": "Errors in import",
+    "filter.date": "Date",
+    "filter.jobProfile": "Job profile",
+    "filter.chooseJobProfile": "Choose job profile",
+    "filter.user": "User",
+    "filter.chooseUser": "Choose user",
+    "filter.singleRecordImports": "Inventory single record imports",
+    "filter.option.no": "no",
+    "filter.option.yes": "yes"
 }
