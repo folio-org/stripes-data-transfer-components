@@ -40,6 +40,6 @@
     "filter.user": "User",
     "filter.chooseUser": "Choose user",
     "filter.singleRecordImports": "Inventory single record imports",
-    "filter.option.no": "no",
-    "filter.option.yes": "yes"
+    "filter.option.no": "non",
+    "filter.option.yes": "Oui"
 }

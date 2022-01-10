@@ -33,13 +33,13 @@
     "duplicate": "Duplicar",
     "delete": "Excluir",
     "recordTypes.srs": "Armazenamento de registro de origem (registro inteiro)",
-    "filter.errors": "Errors in import",
-    "filter.date": "Date",
-    "filter.jobProfile": "Job profile",
-    "filter.chooseJobProfile": "Choose job profile",
-    "filter.user": "User",
-    "filter.chooseUser": "Choose user",
-    "filter.singleRecordImports": "Inventory single record imports",
-    "filter.option.no": "no",
-    "filter.option.yes": "yes"
+    "filter.errors": "Erros na importação",
+    "filter.date": "Data",
+    "filter.jobProfile": "Perfil do job",
+    "filter.chooseJobProfile": "Escolha o perfil do job",
+    "filter.user": "Usuário",
+    "filter.chooseUser": "Escolha o usuário",
+    "filter.singleRecordImports": "Importação de registro único",
+    "filter.option.no": "não",
+    "filter.option.yes": "sim"
 }
