@@ -6,7 +6,7 @@
 [Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/compare/v5.0.1...v5.1.0)
 
 * Log sort on Data Import landing page not working properly. STDTC-52
-* Add disable prop in FileUploader. 
+* Add disable prop in FileUploader. STDTC-51
 * Move ViewAllLogsFilters component from data-import. STDTC-19
 
 ## [5.0.1](https://github.com/folio-org/stripes-data-transfer-components/tree/v5.0.1) (2021-11-04)
