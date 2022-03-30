@@ -15,6 +15,7 @@
     "lint": "eslint .",
     "lintfix": "eslint . --fix",
     "test:jest": "jest --ci --coverage",
+    "build-mod-descriptor": "stripes mod descriptor --full --strict | jq '.[]' > module-descriptor.json ",
     "test": "yarn run test:jest"
   },
   "devDependencies": {
