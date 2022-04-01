@@ -41,5 +41,6 @@
     "filter.chooseUser": "Choose user",
     "filter.singleRecordImports": "Inventory single record imports",
     "filter.option.no": "non",
-    "filter.option.yes": "Oui"
+    "filter.option.yes": "Oui",
+    "recordTypes.authority": "Authority"
 }

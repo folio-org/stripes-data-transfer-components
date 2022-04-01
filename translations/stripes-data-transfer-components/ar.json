@@ -41,5 +41,6 @@
     "filter.chooseUser": "اختر مستخدم",
     "filter.singleRecordImports": "استيرادات تسجيلة مفردة بالمخزون",
     "filter.option.no": "لا",
-    "filter.option.yes": "نعم"
+    "filter.option.yes": "نعم",
+    "recordTypes.authority": "Authority"
 }
