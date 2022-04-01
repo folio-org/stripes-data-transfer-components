@@ -23,6 +23,7 @@
   "recordTypes.items": "Items",
   "recordTypes.instance": "Instance",
   "recordTypes.holdings": "Holdings",
+  "recordTypes.authority": "Authority",
   "recordTypes.marc-bib": "MARC Bibliographic",
   "recordTypes.marc-auth": "MARC Authority",
   "recordTypes.marc-hold": "MARC Holdings",
