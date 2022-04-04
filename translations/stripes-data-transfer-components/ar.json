@@ -42,5 +42,5 @@
     "filter.singleRecordImports": "استيرادات تسجيلة مفردة بالمخزون",
     "filter.option.no": "لا",
     "filter.option.yes": "نعم",
-    "recordTypes.authority": "Authority"
+    "recordTypes.authority": "استناد"
 }
