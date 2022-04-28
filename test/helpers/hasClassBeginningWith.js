@@ -1,7 +1,7 @@
 import { computed } from '@bigtest/interactor';
 
 export function hasClassBeginningWith(selector, className) {
-  return computed(function () {
+  return computed(function checkHasClassBeginningWith() {
     return this.$(selector).className.includes(className);
   });
 }
