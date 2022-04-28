@@ -4,6 +4,7 @@
 
 * The "Something went wrong" message and the "Return to Data export settings" button are displayed in the "Settings" application page after clicking on the "Mapping profile" item. STDTC-56
 * Compile translations. Refs STDTC-59.
+* When implemented with pagination, <SearchAndSortPane> component doesn't display results for the first page. STDTC-61.
 
 ## [5.1.0](https://github.com/folio-org/stripes-data-transfer-components/tree/v5.1.0) (2022-02-03)
 [Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/compare/v5.0.1...v5.1.0)
