@@ -1,1 +1,4 @@
-jest.mock('stripes-config', () => ({ modules: [], metadata: {} }), { virtual: true });
+jest.mock('stripes-config', () => ({
+  modules: [],
+  metadata: {},
+}), { virtual: true });

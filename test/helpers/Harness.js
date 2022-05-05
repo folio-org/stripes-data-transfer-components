@@ -27,6 +27,12 @@ const stripesDefaultProps = {
 };
 const reactQueryClient = new QueryClient(createReactQueryClient());
 
+const defaultRichTextElements = ['b', 'i', 'em', 'strong', 'span', 'div', 'p', 'ul', 'ol', 'li', 'code'].reduce((res, Tag) => {
+  res[Tag] = chunks => <Tag>{chunks}</Tag>;
+
+  return res;
+}, {});
+
 export function Harness({
   translations: translationsConfig,
   shouldMockOffsetSize = true,
@@ -54,19 +60,7 @@ export function Harness({
           key="en"
           timeZone="UTC"
           messages={allTranslations}
-          defaultRichTextElements={{
-            b: (chunks) => <b>{chunks}</b>,
-            i: (chunks) => <i>{chunks}</i>,
-            em: (chunks) => <em>{chunks}</em>,
-            strong: (chunks) => <strong>{chunks}</strong>,
-            span: (chunks) => <span>{chunks}</span>,
-            div: (chunks) => <div>{chunks}</div>,
-            p: (chunks) => <p>{chunks}</p>,
-            ul: (chunks) => <ul>{chunks}</ul>,
-            ol: (chunks) => <ol>{chunks}</ol>,
-            li: (chunks) => <li>{chunks}</li>,
-            code: (chunks) => <code>{chunks}</code>,
-          }}
+          defaultRichTextElements={defaultRichTextElements}
         >
           {children}
         </IntlProvider>
