@@ -18,10 +18,10 @@
     "recordTypes.invoice": "Invoice",
     "recordTypes.item": "Item",
     "recordTypes.instance": "Instance",
-    "recordTypes.holdings": "Holdings",
+    "recordTypes.holdings": "Holdingy",
     "recordTypes.marc-bib": "MARC Bibliographic",
     "recordTypes.marc-auth": "MARC Authority",
-    "recordTypes.marc-hold": "MARC Holdings",
+    "recordTypes.marc-hold": "MARC holdingy",
     "search": "Search",
     "mappingProfilesCount": "{count, number} field mapping {count, plural, one {profile} other {profiles}}",
     "new": "New",
@@ -42,5 +42,5 @@
     "filter.singleRecordImports": "Import jednoho záznamu katalogu",
     "filter.option.no": "ne",
     "filter.option.yes": "ano",
-    "recordTypes.authority": "Authority"
+    "recordTypes.authority": "Autorita"
 }
