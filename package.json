@@ -16,6 +16,7 @@
     "lintfix": "eslint . --fix",
     "test:jest": "jest --ci --coverage",
     "test": "yarn run test:jest",
+    "build-mod-descriptor": "stripes mod descriptor --full --strict | jq '.[]' > module-descriptor.json ",
     "formatjs-compile": "formatjs compile-folder --ast --format simple ./translations/stripes-data-transfer-components ./translations/stripes-data-transfer-components/compiled"
   },
   "devDependencies": {
