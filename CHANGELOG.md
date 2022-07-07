@@ -2,6 +2,9 @@
 
 ## IN PROGRESS
 
+## [5.2.0](https://github.com/folio-org/stripes-data-transfer-components/tree/v5.2.0) (2022-07-07)
+[Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/compare/v5.1.0...v5.2.0)
+
 * The "Something went wrong" message and the "Return to Data export settings" button are displayed in the "Settings" application page after clicking on the "Mapping profile" item. STDTC-56
 * Provide strings from react-intl where necessary. Refs STDTC-60.
 * Compile translations. Refs STDTC-59.
