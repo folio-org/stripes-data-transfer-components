@@ -41,5 +41,6 @@
     "filter.chooseUser": "Escolha o usuário",
     "filter.singleRecordImports": "Importação de registro único",
     "filter.option.no": "não",
-    "filter.option.yes": "sim"
+    "filter.option.yes": "sim",
+    "recordTypes.authority": "Autoridade"
 }
