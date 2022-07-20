@@ -2,6 +2,8 @@
 
 ## IN PROGRESS
 
+* Replace babel-eslint with @babel/eslint-parser. Refs STDTC-58
+
 ## [5.1.0](https://github.com/folio-org/stripes-data-transfer-components/tree/v5.1.0) (2022-02-03)
 [Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/compare/v5.0.1...v5.1.0)
 
