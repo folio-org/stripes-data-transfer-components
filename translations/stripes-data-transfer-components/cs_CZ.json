@@ -31,7 +31,7 @@
     "jobProfilesCount": "{count, number} akce {count, plural, one {profil} other {profily}}",
     "edit": "Upravit",
     "duplicate": "Duplikovat",
-    "delete": "Vymazat",
+    "delete": "Smazat",
     "recordTypes.srs": "Úložiště zdrojového záznamu (celý záznam)",
     "filter.errors": "Chyby při importu",
     "filter.date": "Datum",
