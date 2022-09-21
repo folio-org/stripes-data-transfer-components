@@ -17,7 +17,7 @@
     "recordTypes.orderLine": "Objednávka a řádek objednávky",
     "recordTypes.invoice": "Faktura",
     "recordTypes.item": "Jednotka",
-    "recordTypes.instance": "Instance",
+    "recordTypes.instance": "Titul",
     "recordTypes.holdings": "Holdingy",
     "recordTypes.marc-bib": "MARC Bibliografické",
     "recordTypes.marc-auth": "Autorita MARC",
