@@ -5,7 +5,7 @@
 ## [5.3.0](https://github.com/folio-org/stripes-data-transfer-components/tree/v5.3.0) (2022-10-21)
 [Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/compare/v5.2.1...v5.3.0)
 
-* Lokalise: updates
+* Update translations
 
 ## [5.2.1](https://github.com/folio-org/stripes-data-transfer-components/tree/v5.2.1) (2022-07-22)
 [Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/compare/v5.2.0...v5.2.1)
