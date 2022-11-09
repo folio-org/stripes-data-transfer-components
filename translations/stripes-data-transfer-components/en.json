@@ -34,7 +34,7 @@
   "edit": "Edit",
   "duplicate": "Duplicate",
   "delete": "Delete",
-  "filter.errors": "Errors in import",
+  "filter.errors": "Errors in export",
   "filter.date": "Date",
   "filter.jobProfile": "Job profile",
   "filter.chooseJobProfile": "Choose job profile",
