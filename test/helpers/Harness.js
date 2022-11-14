@@ -61,6 +61,7 @@ export function Harness({
           timeZone="UTC"
           messages={allTranslations}
           defaultRichTextElements={defaultRichTextElements}
+          onWarn={noop}
         >
           {children}
         </IntlProvider>
