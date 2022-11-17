@@ -33,14 +33,14 @@
     "duplicate": "복제",
     "delete": "삭제",
     "recordTypes.srs": "소스 레코드 저장 (전체 레코드)",
-    "filter.errors": "Errors in import",
+    "filter.errors": "Errors in export",
     "filter.date": "Date",
     "filter.jobProfile": "Job profile",
     "filter.chooseJobProfile": "Choose job profile",
     "filter.user": "User",
     "filter.chooseUser": "Choose user",
     "filter.singleRecordImports": "Inventory single record imports",
-    "filter.option.no": "no",
-    "filter.option.yes": "yes",
+    "filter.option.no": "NO",
+    "filter.option.yes": "YES",
     "recordTypes.authority": "Authority"
 }
