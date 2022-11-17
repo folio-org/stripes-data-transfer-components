@@ -33,14 +33,14 @@
     "duplicate": "Powiel",
     "delete": "Usuń",
     "recordTypes.srs": "Magazyn danych źródłowych (cały rekord)",
-    "filter.errors": "Errors in import",
+    "filter.errors": "Errors in export",
     "filter.date": "Date",
     "filter.jobProfile": "Job profile",
     "filter.chooseJobProfile": "Choose job profile",
     "filter.user": "User",
     "filter.chooseUser": "Choose user",
     "filter.singleRecordImports": "Inventory single record imports",
-    "filter.option.no": "no",
-    "filter.option.yes": "yes",
+    "filter.option.no": "NO",
+    "filter.option.yes": "YES",
     "recordTypes.authority": "Authority"
 }

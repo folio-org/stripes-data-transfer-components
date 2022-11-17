@@ -33,7 +33,7 @@
     "duplicate": "Dupliquer",
     "delete": "Supprimer",
     "recordTypes.srs": "Source record storage (entire record)",
-    "filter.errors": "Errors in import",
+    "filter.errors": "Errors in export",
     "filter.date": "Date",
     "filter.jobProfile": "Profil de tâche",
     "filter.chooseJobProfile": "Choisissez un profil de tâche",
