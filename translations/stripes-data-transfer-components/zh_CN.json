@@ -33,7 +33,7 @@
     "duplicate": "复制",
     "delete": "删除",
     "recordTypes.srs": "源记录存储（整个记录）",
-    "filter.errors": "导入时出错",
+    "filter.errors": "导出时出错",
     "filter.date": "日期",
     "filter.jobProfile": "任务配置文件",
     "filter.chooseJobProfile": "选择任务配置文件",
