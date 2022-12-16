@@ -1,0 +1,33 @@
+.modifyActionContainer {
+  display: inline-flex;
+  align-items: center;
+}
+
+.modifyActionIconLabel {
+  margin: 0 0 0 0.35em;
+}
+
+.container {
+  width: 100%;
+}
+
+.selectableCellButton {
+  & label {
+    &:before,
+    &:after {
+      content: none;
+    }
+
+    & input {
+      margin: 0;
+    }
+
+    justify-content: center;
+    margin-bottom: 0;
+  }
+}
+
+.cellAppIcon {
+  align-items: baseline;
+  flex-shrink: initial;
+}

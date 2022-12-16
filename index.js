@@ -29,4 +29,5 @@ export * from './lib/SearchAndSortPane';
 export * from './lib/FullScreenForm';
 export * from './lib/FullScreenView';
 export * from './lib/ListFormatter';
+export * from './lib/ListTemplate';
 export * from './lib/OverlayView';
