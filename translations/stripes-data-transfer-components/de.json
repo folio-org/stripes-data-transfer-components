@@ -22,7 +22,7 @@
     "recordTypes.marc-bib": "MARC Bibliografische Daten",
     "recordTypes.marc-auth": "MARC Normdaten",
     "recordTypes.marc-hold": "MARC Bestandsdaten",
-    "search": "Suche",
+    "search": "Suchen",
     "mappingProfilesCount": "{count, number} Feldmapping {count, plural, one { profile } other { profiles }}",
     "new": "Neu",
     "recordTypes.items": "Exemplare",
@@ -42,5 +42,10 @@
     "filter.singleRecordImports": "Inventory single record imports",
     "filter.option.no": "nein",
     "filter.option.yes": "ja",
-    "recordTypes.authority": "Normdaten"
+    "recordTypes.authority": "Normdaten",
+    "create": "Create",
+    "modify": "Modify",
+    "update": "Update",
+    "settings.fileExtension.allowImport": "Allow import",
+    "settings.fileExtension.blockImport": "Block import"
 }

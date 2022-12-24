@@ -42,5 +42,10 @@
     "filter.singleRecordImports": "استيرادات تسجيلة مفردة بالمخزون",
     "filter.option.no": "لا",
     "filter.option.yes": "نعم",
-    "recordTypes.authority": "استناد"
+    "recordTypes.authority": "استناد",
+    "create": "Create",
+    "modify": "Modify",
+    "update": "Update",
+    "settings.fileExtension.allowImport": "Allow import",
+    "settings.fileExtension.blockImport": "Block import"
 }
