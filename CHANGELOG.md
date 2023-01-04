@@ -6,6 +6,7 @@
 * Silence `react-intl` warnings in test harness. Refs STDTC-71.
 * Fix logic in range filter in ViewAllLogsFilters. Fix STDTC-70.
 * Move ListTemplate component from ui-data-import to stripes-data-transfer-components. Refs STDTC-69.
+* Bump SDTC version to ^5.4.0. Refs STDTC-74
 
 ## [5.3.0](https://github.com/folio-org/stripes-data-transfer-components/tree/v5.3.0) (2022-10-21)
 [Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/compare/v5.2.1...v5.3.0)
