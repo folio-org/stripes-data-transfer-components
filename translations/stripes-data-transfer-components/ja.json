@@ -31,7 +31,7 @@
     "jobProfilesCount": "{count, number} job {count, plural, one {profile} other {profiles}}",
     "edit": "編集",
     "duplicate": "Duplicate",
-    "delete": "Delete",
+    "delete": "削除",
     "recordTypes.srs": "Source record storage (entire record)",
     "filter.errors": "Errors in export",
     "filter.date": "Date",
@@ -42,5 +42,10 @@
     "filter.singleRecordImports": "Inventory single record imports",
     "filter.option.no": "NO",
     "filter.option.yes": "YES",
-    "recordTypes.authority": "Authority"
+    "recordTypes.authority": "Authority",
+    "create": "Create",
+    "modify": "Modify",
+    "update": "Update",
+    "settings.fileExtension.allowImport": "Allow import",
+    "settings.fileExtension.blockImport": "Block import"
 }

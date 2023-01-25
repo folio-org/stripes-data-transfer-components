@@ -42,5 +42,10 @@
     "filter.singleRecordImports": "Importação de registro único",
     "filter.option.no": "NÃO",
     "filter.option.yes": "SIM",
-    "recordTypes.authority": "Autoridade"
+    "recordTypes.authority": "Autoridade",
+    "create": "Criar",
+    "modify": "Modificar",
+    "update": "Atualizar",
+    "settings.fileExtension.allowImport": "Permitir a importação",
+    "settings.fileExtension.blockImport": "Bloquear importação"
 }
