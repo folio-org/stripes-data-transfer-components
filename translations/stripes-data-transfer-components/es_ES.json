@@ -42,5 +42,10 @@
     "filter.singleRecordImports": "Inventory single record imports",
     "filter.option.no": "NO",
     "filter.option.yes": "YES",
-    "recordTypes.authority": "Autoridad"
+    "recordTypes.authority": "Autoridad",
+    "create": "Create",
+    "modify": "Modify",
+    "update": "Update",
+    "settings.fileExtension.allowImport": "Allow import",
+    "settings.fileExtension.blockImport": "Block import"
 }

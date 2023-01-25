@@ -42,5 +42,10 @@
     "filter.singleRecordImports": "Import jednoho záznamu katalogu",
     "filter.option.no": "NE",
     "filter.option.yes": "ANO",
-    "recordTypes.authority": "Autorita"
+    "recordTypes.authority": "Autorita",
+    "create": "Vytvořit",
+    "modify": "Upravit",
+    "update": "Aktualizace",
+    "settings.fileExtension.allowImport": "Povolit import",
+    "settings.fileExtension.blockImport": "Blokovat import"
 }
