@@ -42,5 +42,10 @@
     "filter.singleRecordImports": "馆藏单记录导入",
     "filter.option.no": "否",
     "filter.option.yes": "是",
-    "recordTypes.authority": "规范"
+    "recordTypes.authority": "规范",
+    "create": "创建",
+    "modify": "修改",
+    "update": "更新",
+    "settings.fileExtension.allowImport": "允许导入",
+    "settings.fileExtension.blockImport": "冻结导入"
 }
