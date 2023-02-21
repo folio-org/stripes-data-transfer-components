@@ -2,6 +2,9 @@
 
 ## IN PROGRESS
 
+## [5.4.0](https://github.com/folio-org/stripes-data-transfer-components/tree/v5.4.0) (2023-02-22)
+[Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/compare/v5.3.0...v5.4.0)
+
 * Data Export App - View all logs page - left pane. Refs UIDEXP-64.
 * Silence `react-intl` warnings in test harness. Refs STDTC-71.
 * Fix logic in range filter in ViewAllLogsFilters. Fix STDTC-70.
