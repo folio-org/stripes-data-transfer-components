@@ -51,13 +51,13 @@
     "react-query": "^3.6.0",
     "react-router-dom": "^5.2.0",
     "regenerator-runtime": "^0.13.3",
+    "pretender": "^3.4.3",
     "sinon": "^7.1.1"
   },
   "dependencies": {
     "classnames": "^2.2.5",
     "compose-function": "^3.0.3",
     "lodash": "^4.16.4",
-    "pretender": "^3.4.3",
     "prop-types": "^15.6.0",
     "query-string": "^7.1.2",
     "react-dropzone": "^11.3.4",
