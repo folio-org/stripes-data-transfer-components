@@ -1,7 +1,11 @@
 # Change history for stripes-data-transfer-components
 
 ## IN PROGRESS
+## [5.4.1](https://github.com/folio-org/stripes-data-transfer-components/tree/v5.4.1) (2023-03-16)
+[Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/compare/v5.4.0...v5.4.1)
+
 * Bump stripes to 8.0.0 for Orchid/2023-R1. STDTC-79
+
 ## [5.4.0](https://github.com/folio-org/stripes-data-transfer-components/tree/v5.4.0) (2023-02-22)
 [Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/compare/v5.3.0...v5.4.0)
 
