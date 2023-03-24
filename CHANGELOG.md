@@ -1,6 +1,9 @@
 # Change history for stripes-data-transfer-components
 
 ## IN PROGRESS
+
+* Format numbers in "totalRecords" columns. STDTC-77
+
 ## [5.4.1](https://github.com/folio-org/stripes-data-transfer-components/tree/v5.4.1) (2023-03-16)
 [Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/compare/v5.4.0...v5.4.1)
 
