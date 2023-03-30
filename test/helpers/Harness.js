@@ -7,8 +7,9 @@ import {
   QueryClient,
 } from 'react-query';
 
-import { StripesContext } from '@folio/stripes-core/src/StripesContext';
-import createReactQueryClient from '@folio/stripes-core/src/createReactQueryClient';
+import '../../test/jest/__mock__';
+
+import { StripesContext, createReactQueryClient } from '@folio/stripes/core';
 
 import translations from '../../translations/stripes-data-transfer-components/en';
 import { prefixKeys } from './prefixKeys';

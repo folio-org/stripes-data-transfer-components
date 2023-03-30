@@ -3,9 +3,8 @@ import { noop } from 'lodash';
 import {
   QueryClient, QueryClientProvider,
 } from 'react-query';
-import createReactQueryClient from '@folio/stripes-core/src/createReactQueryClient';
+import { createReactQueryClient, StripesContext } from '@folio/stripes/core';
 import React from 'react';
-import { StripesContext } from '@folio/stripes-core/src/StripesContext';
 
 const stripesDefaultProps = {
   okapi: { url: '' },

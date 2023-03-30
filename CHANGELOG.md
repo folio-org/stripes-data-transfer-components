@@ -2,6 +2,7 @@
 
 ## IN PROGRESS
 
+* Avoid private paths in stripes-core imports. Fixes STDTC-81.
 * Format numbers in "totalRecords" columns. STDTC-77
 
 ## [5.4.1](https://github.com/folio-org/stripes-data-transfer-components/tree/v5.4.1) (2023-03-16)
