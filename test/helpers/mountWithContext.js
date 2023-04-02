@@ -9,7 +9,6 @@ export function mountWithContext(component, translations = [], stripes) {
     ReactDOM.render(
       <Harness
         translations={translations}
-        shouldMockOffsetSize={false}
         stripes={stripes}
       >
         {component}

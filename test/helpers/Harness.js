@@ -13,7 +13,6 @@ import { StripesContext, createReactQueryClient } from '@folio/stripes/core';
 
 import translations from '../../translations/stripes-data-transfer-components/en';
 import { prefixKeys } from './prefixKeys';
-import { mockOffsetSize } from './mockOffsetSize';
 
 const stripesDefaultProps = {
   okapi: { url: '' },
@@ -36,9 +35,6 @@ const defaultRichTextElements = ['b', 'i', 'em', 'strong', 'span', 'div', 'p', '
 
 export function Harness({
   translations: translationsConfig,
-  shouldMockOffsetSize = true,
-  width = 500,
-  height = 500,
   stripesCustomProps = {},
   children,
 }) {
@@ -48,10 +44,6 @@ export function Harness({
   translationsConfig.forEach(tx => {
     Object.assign(allTranslations, prefixKeys(tx.translations, tx.prefix));
   });
-
-  if (shouldMockOffsetSize) {
-    mockOffsetSize(width, height);
-  }
 
   return (
     <StripesContext.Provider value={stripes}>
@@ -80,7 +72,4 @@ Harness.propTypes = {
     })
   ),
   stripesCustomProps: PropTypes.object,
-  shouldMockOffsetSize: PropTypes.bool,
-  width: PropTypes.number,
-  height: PropTypes.number,
 };
