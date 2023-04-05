@@ -1,21 +1,19 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import Intl, { IntlProvider } from 'react-intl';
+import { IntlProvider } from 'react-intl';
 import { noop } from 'lodash';
 import {
   QueryClientProvider,
   QueryClient,
 } from 'react-query';
 
-import '../../test/jest/__mock__';
-// import '../../test/jest/__mock__/stripesCore.mock';
+import '../../test/jest/__mock__/stripesConfig.mock';
+import '../../test/jest/__mock__/stripesCore.mock';
 
 import { StripesContext, createReactQueryClient } from '@folio/stripes/core';
 
 import translations from '../../translations/stripes-data-transfer-components/en';
 import { prefixKeys } from './prefixKeys';
-
-jest.mock('react-intl', () => jest.requireActual('react-intl'));
 
 const stripesDefaultProps = {
   okapi: { url: '' },
@@ -47,8 +45,6 @@ export function Harness({
   translationsConfig.forEach(tx => {
     Object.assign(allTranslations, prefixKeys(tx.translations, tx.prefix));
   });
-
-  Intl.mockRestore();
 
   return (
     <StripesContext.Provider value={stripes}>
