@@ -7,6 +7,8 @@ import {
   QueryClient,
 } from 'react-query';
 
+import '../../test/jest/__mock__/stripesConfig.mock';
+
 import { StripesContext, createReactQueryClient } from '@folio/stripes/core';
 
 import translations from '../../translations/stripes-data-transfer-components/en';
