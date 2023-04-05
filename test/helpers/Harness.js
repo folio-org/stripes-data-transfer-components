@@ -9,6 +9,7 @@ import {
 
 import '../../test/jest/__mock__/stripesConfig.mock';
 import '../../test/jest/__mock__/stripesCore.mock';
+import '../../test/jest/__mock__/currencyData.mock';
 
 import { StripesContext, createReactQueryClient } from '@folio/stripes/core';
 
