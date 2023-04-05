@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { IntlProvider } from 'react-intl';
+import Intl, { IntlProvider } from 'react-intl';
 import { noop } from 'lodash';
 import {
   QueryClientProvider,
@@ -47,6 +47,8 @@ export function Harness({
   translationsConfig.forEach(tx => {
     Object.assign(allTranslations, prefixKeys(tx.translations, tx.prefix));
   });
+
+  Intl.mockRestore();
 
   return (
     <StripesContext.Provider value={stripes}>
