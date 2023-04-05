@@ -7,12 +7,15 @@ import {
   QueryClient,
 } from 'react-query';
 
-import '../../test/jest/__mock__/stripesConfig.mock';
+import '../../test/jest/__mock__';
+// import '../../test/jest/__mock__/stripesCore.mock';
 
 import { StripesContext, createReactQueryClient } from '@folio/stripes/core';
 
 import translations from '../../translations/stripes-data-transfer-components/en';
 import { prefixKeys } from './prefixKeys';
+
+jest.mock('react-intl', () => jest.requireActual('react-intl'));
 
 const stripesDefaultProps = {
   okapi: { url: '' },
