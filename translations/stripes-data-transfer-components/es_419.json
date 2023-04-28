@@ -32,7 +32,7 @@
     "edit": "Editar",
     "duplicate": "Duplicar",
     "delete": "Eliminar",
-    "recordTypes.srs": "Source record storage (entire record)",
+    "recordTypes.srs": "Almacenamiento del registro de origen (registro completo)",
     "filter.errors": "Errores en la exportación",
     "filter.date": "Fecha",
     "filter.jobProfile": "Perfil del puesto",
