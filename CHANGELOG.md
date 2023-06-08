@@ -7,6 +7,7 @@
 * Fix tests due to changes in react-virtualized-auto-sizer. STDTC-83
 * Add additional props to SearchAndSortPane. Refs STDTC-85.
 * Endless "job-profiles" requests when select job profile to run data export. Refs STDTC-86.
+* Allow to sort logs by "totalRecords" column. Refs STDTC-88.
 
 ## [5.4.1](https://github.com/folio-org/stripes-data-transfer-components/tree/v5.4.1) (2023-03-16)
 [Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/compare/v5.4.0...v5.4.1)
