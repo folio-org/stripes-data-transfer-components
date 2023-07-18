@@ -11,10 +11,24 @@
     "requireConfigFile": false,
     "babelOptions": {
       "presets": ["@babel/preset-react"]
+    },
+    "ecmaFeatures": {
+      "legacyDecorators": true
     }
   },
   "plugins": ["babel", "jest"],
   "root": true,
+  "overrides": [
+    {
+      "files": ["lib/**/tests/*", "util/tests/*"],
+      "rules": {
+        "func-names": "off",
+        "max-len": "off",
+        "no-unused-expressions": "off",
+        "react/prop-types": "off"
+      }
+    }
+  ],
   "rules": {
     "key-spacing": [
       "error",
@@ -24,6 +38,7 @@
     ],
     "import/no-extraneous-dependencies": "off",
     "import/prefer-default-export": "off",
+    "import/no-default-export": "error",
     "padding-line-between-statements": [
       "error",
       {
@@ -72,7 +87,7 @@
     "object-property-newline": [
       "error",
       {
-        "allowAllPropertiesOnSameLine": false
+        "allowMultiplePropertiesPerLine": false
       }
     ],
     "no-multiple-empty-lines": [
@@ -111,12 +126,6 @@
       "unix"
     ],
     "prefer-object-spread": "off",
-    "no-console": [
-      "error",
-      {
-        "allow": ["warn", "error"]
-      }
-    ],
     "react/prop-types": [
       "error",
       {
@@ -145,16 +154,5 @@
       }
     ],
     "react/jsx-no-useless-fragment": "error"
-  },
-  "overrides": [
-    {
-      "files": ["*test.*", "test/**"],
-      "rules": {
-        "react/prop-types": "off",
-        "padding-line-between-statements": "off",
-        "object-curly-newline": "off",
-        "object-property-newline": "off"
-      }
-    }
-  ]
+  }
 }
