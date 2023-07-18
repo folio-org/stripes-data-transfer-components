@@ -8,6 +8,7 @@
 * Add additional props to SearchAndSortPane. Refs STDTC-85.
 * Endless "job-profiles" requests when select job profile to run data export. Refs STDTC-86.
 * Allow to sort logs by "totalRecords" column. Refs STDTC-88.
+* Rename to ended running filter and add new filter started running in ViewAllLogsFilters. Refs STDTC-91.
 
 ## [5.4.1](https://github.com/folio-org/stripes-data-transfer-components/tree/v5.4.1) (2023-03-16)
 [Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/compare/v5.4.0...v5.4.1)
