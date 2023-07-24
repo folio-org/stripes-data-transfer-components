@@ -34,7 +34,6 @@
     "delete": "Excluir",
     "recordTypes.srs": "Armazenamento de registro de origem (registro inteiro)",
     "filter.errors": "Erros na exportação",
-    "filter.date": "Data",
     "filter.jobProfile": "Perfil do trabalho",
     "filter.chooseJobProfile": "Escolha o perfil do trabalho",
     "filter.user": "Usuário",
@@ -47,5 +46,7 @@
     "modify": "Modificar",
     "update": "Atualizar",
     "settings.fileExtension.allowImport": "Permitir a importação",
-    "settings.fileExtension.blockImport": "Bloquear importação"
+    "settings.fileExtension.blockImport": "Bloquear importação",
+    "filter.endedDate": "Terminou a execução",
+    "filter.startedDate": "Execução iniciada"
 }

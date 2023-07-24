@@ -34,7 +34,6 @@
     "delete": "Eliminar",
     "recordTypes.srs": "Almacenamiento del registro de origen (registro completo)",
     "filter.errors": "Errores en la exportación",
-    "filter.date": "Fecha",
     "filter.jobProfile": "Perfil del puesto",
     "filter.chooseJobProfile": "Elegir perfil profesional",
     "filter.user": "Usuario",
@@ -47,5 +46,7 @@
     "modify": "Modificar",
     "update": "Actualizar",
     "settings.fileExtension.allowImport": "Permitir la importación",
-    "settings.fileExtension.blockImport": "Importación en bloque"
+    "settings.fileExtension.blockImport": "Importación en bloque",
+    "filter.endedDate": "Ended running",
+    "filter.startedDate": "Started running"
 }
