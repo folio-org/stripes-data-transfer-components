@@ -34,7 +34,6 @@
     "delete": "Smazat",
     "recordTypes.srs": "Úložiště zdrojového záznamu (celý záznam)",
     "filter.errors": "Chyby při exportu",
-    "filter.date": "Datum",
     "filter.jobProfile": "Profil úlohy",
     "filter.chooseJobProfile": "Vyberte profil úlohy",
     "filter.user": "Uživatel",
@@ -47,5 +46,7 @@
     "modify": "Upravit",
     "update": "Aktualizace",
     "settings.fileExtension.allowImport": "Povolit import",
-    "settings.fileExtension.blockImport": "Blokovat import"
+    "settings.fileExtension.blockImport": "Blokovat import",
+    "filter.endedDate": "Ended running",
+    "filter.startedDate": "Started running"
 }
