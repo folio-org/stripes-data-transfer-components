@@ -34,7 +34,6 @@
     "delete": "Löschen",
     "recordTypes.srs": "Quelldatensatzspeicher (gesamter Datensatz)",
     "filter.errors": "Importfehler",
-    "filter.date": "Datum",
     "filter.jobProfile": "Jobprofil",
     "filter.chooseJobProfile": "Jobprofil auswählen",
     "filter.user": "User",
@@ -47,5 +46,7 @@
     "modify": "Modify",
     "update": "Update",
     "settings.fileExtension.allowImport": "Allow import",
-    "settings.fileExtension.blockImport": "Block import"
+    "settings.fileExtension.blockImport": "Block import",
+    "filter.endedDate": "Ended running",
+    "filter.startedDate": "Started running"
 }
