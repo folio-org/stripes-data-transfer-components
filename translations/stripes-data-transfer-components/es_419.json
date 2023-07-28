@@ -47,6 +47,6 @@
     "update": "Actualizar",
     "settings.fileExtension.allowImport": "Permitir la importación",
     "settings.fileExtension.blockImport": "Importación en bloque",
-    "filter.endedDate": "Ended running",
-    "filter.startedDate": "Started running"
+    "filter.endedDate": "Fin de la carrera",
+    "filter.startedDate": "Empezó a correr"
 }

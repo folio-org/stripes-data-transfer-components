@@ -4,7 +4,7 @@
     "jobExecutionHrId": "ID",
     "jobProfileName": "Profil úlohy",
     "records": "Záznamy",
-    "jobCompletedDate": "Úloha dokončena",
+    "jobCompletedDate": "Dokončeno",
     "runBy": "Provozuje",
     "profiles": "Profily",
     "learnMore": "Zjistěte více",
@@ -39,14 +39,14 @@
     "filter.user": "Uživatel",
     "filter.chooseUser": "Vybrat uživatele",
     "filter.singleRecordImports": "Import jednoho záznamu katalogu",
-    "filter.option.no": "NE",
-    "filter.option.yes": "ANO",
+    "filter.option.no": "Ne",
+    "filter.option.yes": "Ano",
     "recordTypes.authority": "Autorita",
     "create": "Vytvořit",
     "modify": "Upravit",
     "update": "Aktualizace",
     "settings.fileExtension.allowImport": "Povolit import",
     "settings.fileExtension.blockImport": "Blokovat import",
-    "filter.endedDate": "Ended running",
-    "filter.startedDate": "Started running"
+    "filter.endedDate": "Dokončeno",
+    "filter.startedDate": "Spuštěno"
 }
