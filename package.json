@@ -63,6 +63,9 @@
     "react-dropzone": "^11.3.4",
     "react-router-prop-types": "^1.0.4"
   },
+  "optionalDependencies": {
+    "@folio/plugin-find-user": "^7.0.0"
+  },
   "peerDependencies": {
     "@folio/stripes": "^9.0.0",
     "react": "^18.2.0",
