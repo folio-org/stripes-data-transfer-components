@@ -13,6 +13,7 @@
 * *BREAKING* Update `react` to `v18`. Refs STDTC-92.
 * Update Node.js to v18 in GitHub Actions. Refs STDTC-93.
 * Add User filter to Logs page. Refs STDTC-94.
+* *BREAKING* bump `react-intl` to `v6.4.4`. Refs STDTC-95.
 
 ## [5.4.1](https://github.com/folio-org/stripes-data-transfer-components/tree/v5.4.1) (2023-03-16)
 [Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/compare/v5.4.0...v5.4.1)
