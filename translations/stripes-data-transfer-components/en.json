@@ -45,7 +45,7 @@
   "filter.jobProfile": "Job profile",
   "filter.chooseJobProfile": "Choose job profile",
   "filter.user": "User",
-  "filter.chooseUser": "Choose user",
+  "filter.chooseUser": "User look-up",
   "filter.singleRecordImports": "Inventory single record imports",
   "filter.option.no": "No",
   "filter.option.yes": "Yes"
