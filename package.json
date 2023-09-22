@@ -47,7 +47,7 @@
     "mocha": "^5.2.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-intl": "^5.7.0",
+    "react-intl": "^6.4.4",
     "react-query": "^3.6.0",
     "react-router-dom": "^5.2.0",
     "regenerator-runtime": "^0.13.3",
@@ -63,11 +63,14 @@
     "react-dropzone": "^11.3.4",
     "react-router-prop-types": "^1.0.4"
   },
+  "optionalDependencies": {
+    "@folio/plugin-find-user": "^7.0.0"
+  },
   "peerDependencies": {
     "@folio/stripes": "^9.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-intl": "^5.7.0",
+    "react-intl": "^6.4.4",
     "react-router": "*",
     "react-router-dom": "*"
   },
