@@ -2,6 +2,9 @@
 
 ## IN PROGRESS
 
+## [6.0.0](https://github.com/folio-org/stripes-data-transfer-components/tree/v6.0.0) (2023-10-12)
+[Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/compare/v5.4.1...v6.0.0)
+
 * Avoid private paths in stripes-core imports. Fixes STDTC-81.
 * Format numbers in "totalRecords" columns. STDTC-77
 * Fix tests due to changes in react-virtualized-auto-sizer. STDTC-83
