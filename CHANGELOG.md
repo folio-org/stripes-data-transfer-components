@@ -2,6 +2,8 @@
 
 ## IN PROGRESS
 
+* Add onfilter function to ViewAllLogsFilter. Refs STDTC-99.
+
 ## [6.0.0](https://github.com/folio-org/stripes-data-transfer-components/tree/v6.0.0) (2023-10-12)
 [Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/compare/v5.4.1...v6.0.0)
 
