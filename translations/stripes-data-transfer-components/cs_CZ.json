@@ -22,7 +22,7 @@
     "recordTypes.marc-bib": "MARC Bibliografické",
     "recordTypes.marc-auth": "MARC autority",
     "recordTypes.marc-hold": "MARC holdingy",
-    "search": "Vyhledávání",
+    "search": "Vyhledat",
     "mappingProfilesCount": "{count, number} mapování polí {count, plural, one {profil} other {profilů}}",
     "new": "Nový",
     "recordTypes.items": "Jednotky",
