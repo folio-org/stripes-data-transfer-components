@@ -3,6 +3,10 @@
 ## IN PROGRESS
 
 * Add onfilter function to ViewAllLogsFilter. Refs STDTC-99.
+
+## [6.0.1](https://github.com/folio-org/stripes-data-transfer-components/tree/v6.0.1) (2023-12-13)
+[Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/compare/v6.0.0...v6.0.1)
+
 * Formatting a list of jobs without the "progress" field results in an error on the UI. Refs STDTC-100.
 
 ## [6.0.0](https://github.com/folio-org/stripes-data-transfer-components/tree/v6.0.0) (2023-10-12)
