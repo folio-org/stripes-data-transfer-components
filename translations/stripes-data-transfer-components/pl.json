@@ -17,7 +17,7 @@
     "recordTypes.orderLine": "Zamówienie i pozycje zamówienia",
     "recordTypes.invoice": "Faktura",
     "recordTypes.item": "Egzemplarz",
-    "recordTypes.instance": "Instancja",
+    "recordTypes.instance": "Opis bibliograficzny",
     "recordTypes.holdings": "Zasoby",
     "recordTypes.marc-bib": "MARC rekordu bibliograficznego",
     "recordTypes.marc-auth": "MARC rekordu hasła wzorcowego",
