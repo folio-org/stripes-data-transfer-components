@@ -33,7 +33,7 @@
     "duplicate": "Duplizieren",
     "delete": "Löschen",
     "recordTypes.srs": "Quelldatensatzspeicher (gesamter Datensatz)",
-    "filter.errors": "Importfehler",
+    "filter.errors": "Exportfehler",
     "filter.jobProfile": "Jobprofil",
     "filter.chooseJobProfile": "Jobprofil auswählen",
     "filter.user": "User",
