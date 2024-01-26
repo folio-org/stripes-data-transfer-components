@@ -3,6 +3,7 @@
 ## IN PROGRESS
 
 * Add onfilter function to ViewAllLogsFilter. Refs STDTC-99.
+* Fix a crash when viewing Authority DELETE job profile details. Refs STDTC-102.
 
 ## [6.0.1](https://github.com/folio-org/stripes-data-transfer-components/tree/v6.0.1) (2023-12-13)
 [Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/compare/v6.0.0...v6.0.1)
