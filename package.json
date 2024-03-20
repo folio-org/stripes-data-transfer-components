@@ -20,8 +20,8 @@
     "formatjs-compile": "formatjs compile-folder --ast --format simple ./translations/stripes-data-transfer-components ./translations/stripes-data-transfer-components/compiled"
   },
   "devDependencies": {
-    "@babel/plugin-transform-runtime": "^7.12.1",
     "@babel/eslint-parser": "^7.18.2",
+    "@babel/plugin-transform-runtime": "^7.12.1",
     "@bigtest/interactor": "^0.7.2",
     "@folio/eslint-config-stripes": "^7.0.0",
     "@folio/stripes": "^9.0.0",
@@ -45,19 +45,20 @@
     "jest-css-modules": "^2.1.0",
     "jest-junit": "^11.0.1",
     "mocha": "^5.2.0",
+    "pretender": "^3.4.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-intl": "^6.4.4",
     "react-query": "^3.6.0",
     "react-router-dom": "^5.2.0",
     "regenerator-runtime": "^0.13.3",
-    "pretender": "^3.4.3",
     "sinon": "^7.1.1"
   },
   "dependencies": {
     "classnames": "^2.2.5",
     "compose-function": "^3.0.3",
     "lodash": "^4.16.4",
+    "moment": "^2.30.1",
     "prop-types": "^15.6.0",
     "query-string": "^7.1.2",
     "react-dropzone": "^11.3.4",
