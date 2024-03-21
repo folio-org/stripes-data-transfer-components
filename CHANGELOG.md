@@ -2,6 +2,8 @@
 
 ## IN PROGRESS
 
+* Add User look-up filter for existing jobs to Logs page. Refs STDTC-97.
+
 ## [6.1.0](https://github.com/folio-org/stripes-data-transfer-components/tree/v6.1.0) (2024-03-18)
 [Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/compare/v6.0.1...v6.1.0)
 
