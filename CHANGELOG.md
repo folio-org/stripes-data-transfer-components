@@ -1,6 +1,7 @@
 # Change history for stripes-data-transfer-components
 
-## IN PROGRESS
+## [6.1.1](https://github.com/folio-org/stripes-data-transfer-components/tree/v6.1.1) (2024-04-19)
+[Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/compare/v6.1.0...v6.1.1)
 
 * Display `Updated by` column in the format `Last name, first name (@user_name)`. Fixes STDTC-109.
 
