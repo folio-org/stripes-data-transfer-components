@@ -37,7 +37,7 @@
     "filter.jobProfile": "任务配置文件",
     "filter.chooseJobProfile": "选择任务配置文件",
     "filter.user": "用户",
-    "filter.chooseUser": "用户查询",
+    "filter.chooseUser": "选择用户",
     "filter.singleRecordImports": "馆藏单记录导入",
     "filter.option.no": "否",
     "filter.option.yes": "是",
