@@ -45,8 +45,8 @@
     "create": "Create",
     "modify": "Modify",
     "update": "Update",
-    "settings.fileExtension.allowImport": "Allow import",
-    "settings.fileExtension.blockImport": "Block import",
+    "settings.fileExtension.allowImport": "Zezwól na import",
+    "settings.fileExtension.blockImport": "Zablokuj import",
     "filter.endedDate": "Ended running",
     "filter.startedDate": "Started running"
 }

@@ -35,7 +35,7 @@
     "recordTypes.srs": "Úložiště zdrojového záznamu (celý záznam)",
     "filter.errors": "Chyby při exportu",
     "filter.jobProfile": "Profil úlohy",
-    "filter.chooseJobProfile": "Vyberte profil úlohy",
+    "filter.chooseJobProfile": "Vybrat profil úlohy",
     "filter.user": "Uživatel",
     "filter.chooseUser": "Vybrat uživatele",
     "filter.singleRecordImports": "Import jednoho záznamu katalogu",
