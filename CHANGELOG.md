@@ -3,6 +3,7 @@
 ## IN PROGRESS
 
 * Add User look-up filter for existing jobs to Logs page. Refs STDTC-97.
+* React v19: refactor away from unmountComponentAtNode. Refs STDTC-112.
 
 ## [6.1.1](https://github.com/folio-org/stripes-data-transfer-components/tree/v6.1.1) (2024-04-19)
 [Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/compare/v6.1.0...v6.1.1)
