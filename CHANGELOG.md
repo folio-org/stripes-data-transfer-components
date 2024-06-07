@@ -3,6 +3,7 @@
 ## IN PROGRESS
 
 * Add User look-up filter for existing jobs to Logs page. Refs STDTC-97.
+* React v19: refactor away from default props for functional components. Refs STDTC-113
 * React v19: refactor away from unmountComponentAtNode. Refs STDTC-112
 * React v19: refactor away from ReactDOM.render. Refs STDTC-111
 
