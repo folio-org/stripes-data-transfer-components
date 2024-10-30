@@ -1,6 +1,6 @@
 {
   "name": "@folio/stripes-data-transfer-components",
-  "version": "6.1.1",
+  "version": "6.2.0",
   "description": "Shared components for ui-data-import and ui-data-export projects",
   "main": "lib/index.js",
   "repository": "folio-org/stripes-data-transfer-components",
