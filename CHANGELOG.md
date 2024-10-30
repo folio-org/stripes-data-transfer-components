@@ -10,6 +10,7 @@
 * React v19: refactor away from ReactDOM.render. Refs STDTC-111
 * Add showSortIndicator prop to JobLogs component. Refs STDTC-116.
 * Point `package.json`'s `main` to `lib/index.js`. Refs STDTC-115.
+* Bump "@folio/stripes-acq-components" version to v6.0.0
 
 ## [6.1.1](https://github.com/folio-org/stripes-data-transfer-components/tree/v6.1.1) (2024-04-19)
 [Full Changelog](https://github.com/folio-org/stripes-data-transfer-components/compare/v6.1.0...v6.1.1)
