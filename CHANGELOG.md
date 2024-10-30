@@ -2,6 +2,8 @@
 
 ## IN PROGRESS
 
+## [6.2.0](https://github.com/folio-org/stripes-data-transfer-components/tree/v6.2.0) (2024-10-30)
+
 * Add User look-up filter for existing jobs to Logs page. Refs STDTC-97.
 * React v19: refactor away from default props for functional components. Refs STDTC-113
 * React v19: refactor away from unmountComponentAtNode. Refs STDTC-112
