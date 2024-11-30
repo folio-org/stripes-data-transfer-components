@@ -22,7 +22,7 @@
     "recordTypes.marc-bib": "MARC Bibliográfico",
     "recordTypes.marc-auth": "MARC Autoridade",
     "recordTypes.marc-hold": "Coleção MARC",
-    "search": "Pesquisa",
+    "search": "Buscar",
     "mappingProfilesCount": "{count, number} {count, plural, one {perfil} other {perfis}} de mapeamento de campos",
     "new": "Novo",
     "recordTypes.items": "Itens",
