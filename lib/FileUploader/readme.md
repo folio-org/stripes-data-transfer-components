@@ -7,7 +7,7 @@ Component is built on top of [ReactDropzone](https://react-dropzone.netlify.com)
 ```javascript
 <FileUploader
   title="Drop to start import"
-  uploadBtnText="or choose files"
+  uploadButtonText="or choose files"
   isDropZoneActive={isDropZoneActive}
   onDrop={onDrop}
 />
@@ -52,7 +52,7 @@ onDrop = (acceptedFiles, rejectedFiles) => {
 ```javascript
 <FileUploader
   title={titleText}
-  uploadBtnText={uploadBtnText}
+  uploadButtonText={uploadButtonText}
   isDropZoneActive={isDropZoneActive}
   onDrop={onDrop}
 >
@@ -67,7 +67,7 @@ Here `<FormattedMessage id={id} />` will be rendered below the title and upload 
 ```javascript
 <FileUploader
   title={titleText}
-  uploadBtnText={uploadBtnText}
+  uploadButtonText={uploadButtonText}
   isDropZoneActive={isDropZoneActive}
   onDrop={onDrop}
 >
@@ -97,7 +97,7 @@ When using a function as `children` this function accepts `openFileUploadDialogW
 | Prop             | Type                   | Default | Required | Description                                  |
 |------------------|------------------------|---------|----------|----------------------------------------------|
 | title            | node                   |         | Yes      | Title of the component                       |
-| uploadBtnText    | node                   |         | Yes      | Upload files button text                     |
+| uploadButtonText | node                   |         | Yes      | Upload files button text                     |
 | isDropZoneActive | bool                   |         | Yes      | Value specifying whether dropzone is active  |
 | children         | node | node[] | func   |         | No       |                                              |
 
