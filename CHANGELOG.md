@@ -2,6 +2,8 @@
 
 ## IN PROGRESS
 
+* Migrate to shared GA workflows. Refs STDTC-119.
+
 ## [6.2.0](https://github.com/folio-org/stripes-data-transfer-components/tree/v6.2.0) (2024-10-30)
 
 * Add User look-up filter for existing jobs to Logs page. Refs STDTC-97.
