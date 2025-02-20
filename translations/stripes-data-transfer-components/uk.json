@@ -16,7 +16,7 @@
     "recordTypes.order": "Order",
     "recordTypes.orderLine": "Order & order line",
     "recordTypes.invoice": "Invoice",
-    "recordTypes.item": "Exemplár",
+    "recordTypes.item": "Item",
     "recordTypes.instance": "Instance",
     "recordTypes.holdings": "Holdings",
     "recordTypes.marc-bib": "MARC Bibliographic",
