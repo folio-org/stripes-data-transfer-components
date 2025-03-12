@@ -2,6 +2,8 @@
 
 ## IN PROGRESS
 
+## [7.0.0](https://github.com/folio-org/stripes-data-transfer-components/tree/v7.0.0) (2025-03-12)
+
 * Migrate to shared GA workflows. Refs STDTC-119.
 * *BREAKING* Migrate stripes dependencies to their Sunflower versions. Refs STDTC-120.
 * *BREAKING* Migrate `react-intl` to v7. Refs STDTC-121.
