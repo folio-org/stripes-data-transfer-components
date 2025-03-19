@@ -2,6 +2,8 @@
 
 ## IN PROGRESS
 
+## [7.0.1](https://github.com/folio-org/stripes-data-transfer-components/tree/v7.0.1) (2025-03-19)
+
 * Migrate @folio/plugin-find-user to Sunflower version (8.0.0).
 
 ## [7.0.0](https://github.com/folio-org/stripes-data-transfer-components/tree/v7.0.0) (2025-03-12)
