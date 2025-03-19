@@ -2,6 +2,8 @@
 
 ## IN PROGRESS
 
+* Migrate @folio/plugin-find-user to Sunflower version (8.0.0).
+
 ## [7.0.0](https://github.com/folio-org/stripes-data-transfer-components/tree/v7.0.0) (2025-03-12)
 
 * Migrate to shared GA workflows. Refs STDTC-119.
