@@ -17,7 +17,7 @@
     "recordTypes.orderLine": "Order & order line",
     "recordTypes.invoice": "Invoice",
     "recordTypes.item": "Item",
-    "recordTypes.instance": "Instance",
+    "recordTypes.instance": "Біб.запис (інстанс)",
     "recordTypes.holdings": "Holdings",
     "recordTypes.marc-bib": "MARC Bibliographic",
     "recordTypes.marc-auth": "MARC Authority",

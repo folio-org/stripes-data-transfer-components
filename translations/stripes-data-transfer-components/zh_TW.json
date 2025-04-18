@@ -48,5 +48,5 @@
     "settings.fileExtension.allowImport": "允許匯入",
     "settings.fileExtension.blockImport": "禁止匯入",
     "filter.endedDate": "已結束運行",
-    "filter.startedDate": "處理中"
+    "filter.startedDate": "開始執行時間"
 }
