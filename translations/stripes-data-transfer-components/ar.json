@@ -47,6 +47,6 @@
     "update": "تحديث",
     "settings.fileExtension.allowImport": "Allow import",
     "settings.fileExtension.blockImport": "حظر الاستيراد",
-    "filter.endedDate": "Ended running",
+    "filter.endedDate": "انتهى التشغيل",
     "filter.startedDate": "بدء التشغيل"
 }
