@@ -32,7 +32,7 @@
     "edit": "Editar",
     "duplicate": "Duplicar",
     "delete": "Excluir",
-    "recordTypes.srs": "Armazenamento de registro de origem (registro inteiro)",
+    "recordTypes.srs": "Registro de catalogação fonte (registro inteiro)",
     "filter.errors": "Erros na exportação",
     "filter.jobProfile": "Perfil do trabalho",
     "filter.chooseJobProfile": "Escolha o perfil do trabalho",
