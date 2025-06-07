@@ -21,7 +21,7 @@
     "recordTypes.holdings": "Zasoby",
     "recordTypes.marc-bib": "MARC rekordu bibliograficznego",
     "recordTypes.marc-auth": "KHW",
-    "recordTypes.marc-hold": "MARC rekordu zasobu ",
+    "recordTypes.marc-hold": "MARC zasobów",
     "search": "Szukaj",
     "mappingProfilesCount": "{count, number} pola mapowanie {count, plural, one {profil} other {profile}}",
     "new": "Nowy",
