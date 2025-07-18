@@ -9,7 +9,7 @@
     "profiles": "Профілі",
     "learnMore": "Дізнатися більше",
     "name": "Ім'я/Назва",
-    "folioRecordType": "FOLIO record type",
+    "folioRecordType": "Тип запису FOLIO",
     "updated": "Оновлено",
     "updatedBy": "Оновлено за",
     "mappingProfilesTitle": "Профілі мапування полів",
@@ -27,8 +27,8 @@
     "new": "Нове",
     "recordTypes.items": "Примірники",
     "validation.enterValue": "Введіть значення, будь ласка",
-    "jobProfilesTitle": "Job profiles",
-    "jobProfilesCount": "{count, number} job {count, plural, one {profile} other {profiles}}",
+    "jobProfilesTitle": "Профілі завдань",
+    "jobProfilesCount": "{count, number} завдання {count, plural, one {профіль} other {профілі}}",
     "edit": "Редагувати",
     "duplicate": "Дублювати",
     "delete": "Видалити",
@@ -39,8 +39,8 @@
     "filter.user": "User",
     "filter.chooseUser": "Choose user",
     "filter.singleRecordImports": "Імпорт одного запису в додатку \"Облік фонду\"",
-    "filter.option.no": "No",
-    "filter.option.yes": "Yes",
+    "filter.option.no": "Ні",
+    "filter.option.yes": "Так",
     "recordTypes.authority": "Авторитетні дані",
     "create": "Створити",
     "modify": "Змінити",
@@ -48,5 +48,5 @@
     "settings.fileExtension.allowImport": "Дозволити імпорт",
     "settings.fileExtension.blockImport": "Блокувати імпорт",
     "filter.endedDate": "Ended running",
-    "filter.startedDate": "Started running"
+    "filter.startedDate": "Виконання почалося"
 }
