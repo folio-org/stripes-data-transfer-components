@@ -11,7 +11,7 @@
     "name": "Jméno",
     "folioRecordType": "Typ záznamu FOLIO",
     "updated": "Aktualizováno",
-    "updatedBy": "Aktualizoval",
+    "updatedBy": "Aktualizoval/a",
     "mappingProfilesTitle": "Profily mapování polí",
     "recordTypes.order": "Objednávka",
     "recordTypes.orderLine": "Objednávka a řádek objednávky",
