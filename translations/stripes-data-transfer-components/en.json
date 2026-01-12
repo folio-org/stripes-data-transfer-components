@@ -13,6 +13,8 @@
   "records": "Records",
   "jobCompletedDate": "Ended running",
   "runBy": "Run by",
+  "locked": "Locked",
+  "status": "Status",
   "name": "Name",
   "folioRecordType": "FOLIO record type",
   "updated": "Updated",
