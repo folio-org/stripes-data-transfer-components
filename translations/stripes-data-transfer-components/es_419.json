@@ -48,5 +48,7 @@
     "settings.fileExtension.allowImport": "Permitir la importación",
     "settings.fileExtension.blockImport": "Importación en bloque",
     "filter.endedDate": "Fin de la carrera",
-    "filter.startedDate": "Empezó a correr"
+    "filter.startedDate": "Empezó a correr",
+    "locked": "Locked",
+    "status": "Status"
 }

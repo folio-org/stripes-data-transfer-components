@@ -48,5 +48,7 @@
     "settings.fileExtension.allowImport": "Allow import",
     "settings.fileExtension.blockImport": "Block import",
     "filter.endedDate": "Ended running",
-    "filter.startedDate": "Started running"
+    "filter.startedDate": "Started running",
+    "locked": "Locked",
+    "status": "Status"
 }

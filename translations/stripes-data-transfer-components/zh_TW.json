@@ -16,7 +16,7 @@
     "recordTypes.order": "訂單",
     "recordTypes.orderLine": "訂單細項",
     "recordTypes.invoice": "發票",
-    "recordTypes.item": "館藏",
+    "recordTypes.item": "單件",
     "recordTypes.instance": "實例",
     "recordTypes.holdings": "館藏",
     "recordTypes.marc-bib": "MARC 書目",
@@ -25,7 +25,7 @@
     "search": "查詢",
     "mappingProfilesCount": "{count, number}欄位對應{count, plural, one { 檔案 } other { 檔案 }}",
     "new": "新增",
-    "recordTypes.items": "館藏",
+    "recordTypes.items": "單件",
     "validation.enterValue": "請輸入一個值",
     "jobProfilesTitle": "工作檔案",
     "jobProfilesCount": "{count, number}工作{count, plural, one {檔案} other {檔案}}",
@@ -48,5 +48,7 @@
     "settings.fileExtension.allowImport": "允許匯入",
     "settings.fileExtension.blockImport": "禁止匯入",
     "filter.endedDate": "已結束運行",
-    "filter.startedDate": "開始執行時間"
+    "filter.startedDate": "開始執行時間",
+    "locked": "Locked",
+    "status": "Status"
 }

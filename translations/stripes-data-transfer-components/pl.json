@@ -27,7 +27,7 @@
     "new": "Nowy",
     "recordTypes.items": "Egzemplarze",
     "validation.enterValue": "Proszę wprowadzić wartość",
-    "jobProfilesTitle": "Profile zadania",
+    "jobProfilesTitle": "Profile zadań",
     "jobProfilesCount": "{count, number} zadanie {count, plural, one {profil} other {profile}}",
     "edit": "Edytuj",
     "duplicate": "Powiel",
@@ -48,5 +48,7 @@
     "settings.fileExtension.allowImport": "Zezwól na import",
     "settings.fileExtension.blockImport": "Zablokuj import",
     "filter.endedDate": "Data i godzina zakończenia importu",
-    "filter.startedDate": "Data i godzina rozpoczęcia importu"
+    "filter.startedDate": "Data i godzina rozpoczęcia importu",
+    "locked": "Locked",
+    "status": "Status"
 }
