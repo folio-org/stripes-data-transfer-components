@@ -11,7 +11,7 @@
     "name": "Jméno",
     "folioRecordType": "Typ záznamu FOLIO",
     "updated": "Aktualizováno",
-    "updatedBy": "Aktualizoval",
+    "updatedBy": "Aktualizoval/a",
     "mappingProfilesTitle": "Profily mapování polí",
     "recordTypes.order": "Objednávka",
     "recordTypes.orderLine": "Objednávka a řádek objednávky",
@@ -48,5 +48,7 @@
     "settings.fileExtension.allowImport": "Povolit import",
     "settings.fileExtension.blockImport": "Blokovat import",
     "filter.endedDate": "Dokončeno",
-    "filter.startedDate": "Spuštěno"
+    "filter.startedDate": "Spuštěno",
+    "locked": "Uzamčeno",
+    "status": "Stav"
 }

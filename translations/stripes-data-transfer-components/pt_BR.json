@@ -48,5 +48,7 @@
     "settings.fileExtension.allowImport": "Permitir a importação",
     "settings.fileExtension.blockImport": "Bloquear importação",
     "filter.endedDate": "Terminou a execução",
-    "filter.startedDate": "Execução iniciada"
+    "filter.startedDate": "Execução iniciada",
+    "locked": "Bloqueado",
+    "status": "Status"
 }

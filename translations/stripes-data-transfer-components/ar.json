@@ -48,5 +48,7 @@
     "settings.fileExtension.allowImport": "Allow import",
     "settings.fileExtension.blockImport": "حظر الاستيراد",
     "filter.endedDate": "انتهى التشغيل",
-    "filter.startedDate": "بدء التشغيل"
+    "filter.startedDate": "بدء التشغيل",
+    "locked": "Locked",
+    "status": "Status"
 }

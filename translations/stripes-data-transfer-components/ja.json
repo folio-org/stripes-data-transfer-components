@@ -34,7 +34,7 @@
     "delete": "削除",
     "recordTypes.srs": "Source record storage (entire record)",
     "filter.errors": "エクスポート時エラー",
-    "filter.jobProfile": "Job profile",
+    "filter.jobProfile": "ジョブ・プロファイル",
     "filter.chooseJobProfile": "Choose job profile",
     "filter.user": "ユーザー",
     "filter.chooseUser": "Choose user",
@@ -48,5 +48,7 @@
     "settings.fileExtension.allowImport": "Allow import",
     "settings.fileExtension.blockImport": "Block import",
     "filter.endedDate": "Ended running",
-    "filter.startedDate": "Started running"
+    "filter.startedDate": "実行開始日",
+    "locked": "Locked",
+    "status": "ステータス"
 }
