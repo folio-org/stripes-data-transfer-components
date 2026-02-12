@@ -4,7 +4,7 @@
     "jobExecutionHrId": "ID",
     "jobProfileName": "Profil zadania",
     "records": "Rekordy",
-    "jobCompletedDate": "Data i godzina zakończenia importu",
+    "jobCompletedDate": "Data i godzina zakończenia",
     "runBy": "Uruchomiony przez",
     "profiles": "Profile",
     "learnMore": "Czytaj więcej",
@@ -47,8 +47,8 @@
     "update": "Aktualizacja",
     "settings.fileExtension.allowImport": "Zezwól na import",
     "settings.fileExtension.blockImport": "Zablokuj import",
-    "filter.endedDate": "Data i godzina zakończenia importu",
-    "filter.startedDate": "Data i godzina rozpoczęcia importu",
+    "filter.endedDate": "Data i godzina zakończenia",
+    "filter.startedDate": "Data i godzina rozpoczęcia",
     "locked": "Locked",
     "status": "Status"
 }
