@@ -11,7 +11,7 @@
     "name": "이름",
     "folioRecordType": "FOLIO 레코드 유형",
     "updated": "업데이트 됨",
-    "updatedBy": "업데이트 :",
+    "updatedBy": "Updated by",
     "mappingProfilesTitle": "필드 매핑 프로파일",
     "recordTypes.order": "주문",
     "recordTypes.orderLine": "주문 및 주문 라인",

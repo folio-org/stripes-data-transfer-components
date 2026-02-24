@@ -16,8 +16,8 @@
     "recordTypes.order": "Order",
     "recordTypes.orderLine": "Order & order line",
     "recordTypes.invoice": "Invoice",
-    "recordTypes.item": "Item",
-    "recordTypes.instance": "Instance",
+    "recordTypes.item": "รายการทรัพยากร",
+    "recordTypes.instance": "ระเบียนบรรณานุกรม",
     "recordTypes.holdings": "Holdings",
     "recordTypes.marc-bib": "MARC Bibliographic",
     "recordTypes.marc-auth": "MARC Authority",
@@ -49,6 +49,6 @@
     "settings.fileExtension.blockImport": "Block import",
     "filter.endedDate": "Ended running",
     "filter.startedDate": "Started running",
-    "locked": "Locked",
-    "status": "Status"
+    "locked": "ล็อกแล้ว",
+    "status": "สถานะ"
 }
