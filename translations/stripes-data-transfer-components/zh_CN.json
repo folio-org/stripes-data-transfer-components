@@ -49,6 +49,6 @@
     "settings.fileExtension.blockImport": "冻结导入",
     "filter.endedDate": "已结束运行",
     "filter.startedDate": "已开始运行",
-    "locked": "Locked",
-    "status": "Status"
+    "locked": "已锁定",
+    "status": "状态"
 }
