@@ -49,6 +49,6 @@
     "settings.fileExtension.blockImport": "Блокувати імпорт",
     "filter.endedDate": "Виконання завершене",
     "filter.startedDate": "Виконання почалося",
-    "locked": "Locked",
-    "status": "Status"
+    "locked": "Заблоковано",
+    "status": "Статус"
 }
