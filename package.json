@@ -1,6 +1,6 @@
 {
   "name": "@folio/stripes-data-transfer-components",
-  "version": "7.0.0",
+  "version": "7.1.0",
   "description": "Shared components for ui-data-import and ui-data-export projects",
   "main": "lib/index.js",
   "repository": "folio-org/stripes-data-transfer-components",
@@ -25,7 +25,7 @@
     "@bigtest/interactor": "^0.7.2",
     "@folio/eslint-config-stripes": "^8.0.0",
     "@folio/stripes": "^10.0.0",
-    "@folio/stripes-acq-components": "~7.0.0",
+    "@folio/stripes-acq-components": "^7.0.0",
     "@folio/stripes-cli": "^4.0.0",
     "@folio/stripes-core": "^11.0.0",
     "@folio/stripes-smart-components": "^10.0.0",
