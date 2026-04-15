@@ -2,6 +2,8 @@
 
 ## IN PROGRESS
 
+## [7.1.0](https://github.com/folio-org/stripes-data-transfer-components/tree/v7.1.0) (2026-04-15)
+
 * Migrate @folio/plugin-find-user to Sunflower version (8.0.0).
 * Fix imports in order to fix failed tests. Refs STDTC-125.
 * Update columns for data-export Jobs profiles table. Refs STDTC-126.
