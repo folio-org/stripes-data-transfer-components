@@ -50,5 +50,6 @@
     "filter.endedDate": "Çalışması sona erdi",
     "filter.startedDate": "Koşmaya başladı",
     "locked": "Locked",
-    "status": "Status"
+    "status": "Status",
+    "recordTypes.linkedData": "Linked data"
 }

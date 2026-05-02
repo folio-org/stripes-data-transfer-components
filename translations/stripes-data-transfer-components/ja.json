@@ -41,7 +41,7 @@
     "filter.singleRecordImports": "インベントリ単一レコードのインポート",
     "filter.option.no": "いいえ",
     "filter.option.yes": "はい",
-    "recordTypes.authority": "Authority",
+    "recordTypes.authority": "典拠",
     "create": "作成",
     "modify": "Modify",
     "update": "更新",
@@ -50,5 +50,6 @@
     "filter.endedDate": "Ended running",
     "filter.startedDate": "実行開始日",
     "locked": "Locked",
-    "status": "ステータス"
+    "status": "ステータス",
+    "recordTypes.linkedData": "リンクトデータ"
 }

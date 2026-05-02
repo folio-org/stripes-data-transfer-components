@@ -50,5 +50,6 @@
     "filter.endedDate": "انتهى التشغيل",
     "filter.startedDate": "بدء التشغيل",
     "locked": "Locked",
-    "status": "Status"
+    "status": "Status",
+    "recordTypes.linkedData": "Linked data"
 }

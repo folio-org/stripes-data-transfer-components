@@ -50,5 +50,6 @@
     "filter.endedDate": "Dokončeno",
     "filter.startedDate": "Spuštěno",
     "locked": "Uzamčeno",
-    "status": "Stav"
+    "status": "Stav",
+    "recordTypes.linkedData": "Propojená data"
 }

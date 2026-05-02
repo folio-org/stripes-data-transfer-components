@@ -50,5 +50,6 @@
     "filter.endedDate": "Ended running",
     "filter.startedDate": "Started running",
     "locked": "ล็อกแล้ว",
-    "status": "สถานะ"
+    "status": "สถานะ",
+    "recordTypes.linkedData": "Linked data"
 }

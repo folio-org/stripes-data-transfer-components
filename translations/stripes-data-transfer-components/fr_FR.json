@@ -42,13 +42,14 @@
     "filter.option.no": "Non",
     "filter.option.yes": "Oui",
     "recordTypes.authority": "Authority",
-    "create": "Create",
-    "modify": "Modify",
-    "update": "Update",
-    "settings.fileExtension.allowImport": "Allow import",
-    "settings.fileExtension.blockImport": "Block import",
-    "filter.endedDate": "Ended running",
+    "create": "Créer",
+    "modify": "Modifier",
+    "update": "Mettre à jour",
+    "settings.fileExtension.allowImport": "Autoriser l'importation",
+    "settings.fileExtension.blockImport": "Bloquer l'importation",
+    "filter.endedDate": "Fin de l'opération",
     "filter.startedDate": "Started running",
     "locked": "Locked",
-    "status": "Status"
+    "status": "statut",
+    "recordTypes.linkedData": "Linked data"
 }
