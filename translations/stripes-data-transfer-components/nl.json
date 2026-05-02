@@ -50,5 +50,6 @@
     "filter.endedDate": "Uitvoeren beëindigd",
     "filter.startedDate": "Uitvoeren gestart",
     "locked": "Gesloten",
-    "status": "Status"
+    "status": "Status",
+    "recordTypes.linkedData": "Gekoppelde gegevens"
 }

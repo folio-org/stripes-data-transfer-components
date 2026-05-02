@@ -50,5 +50,6 @@
     "filter.endedDate": "Ended running",
     "filter.startedDate": "Started running",
     "locked": "Locked",
-    "status": "Status"
+    "status": "Status",
+    "recordTypes.linkedData": "Linked data"
 }

@@ -50,5 +50,6 @@
     "filter.endedDate": "Data i godzina zakończenia",
     "filter.startedDate": "Data i godzina rozpoczęcia",
     "locked": "Locked",
-    "status": "Status"
+    "status": "Status",
+    "recordTypes.linkedData": "Powiązane dane"
 }

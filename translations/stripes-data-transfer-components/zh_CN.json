@@ -50,5 +50,6 @@
     "filter.endedDate": "已结束运行",
     "filter.startedDate": "已开始运行",
     "locked": "已锁定",
-    "status": "状态"
+    "status": "状态",
+    "recordTypes.linkedData": "Linked data"
 }

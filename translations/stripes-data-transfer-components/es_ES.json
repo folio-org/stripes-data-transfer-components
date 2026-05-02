@@ -50,5 +50,6 @@
     "filter.endedDate": "Fin de la carrera",
     "filter.startedDate": "Empezó a correr",
     "locked": "Locked",
-    "status": "Status"
+    "status": "Status",
+    "recordTypes.linkedData": "Linked data"
 }
